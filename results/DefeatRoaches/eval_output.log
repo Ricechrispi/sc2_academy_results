@@ -1,0 +1,431 @@
+USED CHECKPOINT: best/ckpt-11484 ...
+
+2020-08-20 14:58:52.825968: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcudart.so.10.1'; dlerror: libcudart.so.10.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-20 14:58:52.826027: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+I0820 14:58:54.402203 140308030777152 parallel_py_environment.py:102] Spawning all processes.
+2020-08-20 14:58:54.424436: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-20 14:58:54.424510: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-20 14:58:54.424549: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-20 14:58:54.425152: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-20 14:58:54.430180: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-20 14:58:54.430244: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-20 14:58:54.430274: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-20 14:58:54.430843: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+I0820 14:58:54.430755 140308030777152 parallel_py_environment.py:106] Waiting for all processes to start.
+2020-08-20 14:58:54.435348: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-20 14:58:54.435403: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-20 14:58:54.435428: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-20 14:58:54.435884: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-20 14:58:54.440064: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194015000 Hz
+2020-08-20 14:58:54.440588: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x4d34bf0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-20 14:58:54.440611: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-08-20 14:58:54.446879: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194015000 Hz
+2020-08-20 14:58:54.447344: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x4d34bf0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-20 14:58:54.447377: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-08-20 14:58:54.448862: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-20 14:58:54.448915: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-20 14:58:54.448946: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-20 14:58:54.449499: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-20 14:58:54.455012: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194015000 Hz
+2020-08-20 14:58:54.455723: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x4d34bf0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-20 14:58:54.455749: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-08-20 14:58:54.458812: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194015000 Hz
+2020-08-20 14:58:54.459295: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x4d34bf0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-20 14:58:54.459339: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+I0820 14:58:54.485857 140308030777152 parallel_py_environment.py:109] All processes started.
+2020-08-20 14:58:54.505899: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-20 14:58:54.505963: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-20 14:58:54.505997: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-20 14:58:54.506880: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-20 14:58:54.515352: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194015000 Hz
+2020-08-20 14:58:54.515818: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x4d34bf0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-20 14:58:54.515862: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+I0820 14:58:54.523307 140308030777152 sc_process.py:135] Launching SC2: /home/ricechrispi/StarCraftII/Versions/Base75689/SC2_x64 -listen 127.0.0.1 -port 16083 -dataDir /home/ricechrispi/StarCraftII/ -tempDir /tmp/sc-j5zpzj2o/
+I0820 14:58:54.535226 140308030777152 remote_controller.py:166] Connecting to: ws://127.0.0.1:16083/sc2api, attempt: 0, running: True
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/ricechrispi/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 16083 -dataDir /home/ricechrispi/StarCraftII/ -tempDir /tmp/sc-j5zpzj2o/'
+Starting up...
+Startup Phase 1 complete
+I0820 14:58:55.537656 140308030777152 remote_controller.py:166] Connecting to: ws://127.0.0.1:16083/sc2api, attempt: 1, running: True
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:16083
+Startup Phase 3 complete. Ready for commands.
+I0820 14:58:56.538969 140308030777152 remote_controller.py:166] Connecting to: ws://127.0.0.1:16083/sc2api, attempt: 2, running: True
+ConnectHandler: Request from 127.0.0.1:50348 accepted
+ReadyHandler: 127.0.0.1:50348 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface enabled
+Configure: score interface enabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Using default stable ids, none found at: /home/ricechrispi/StarCraftII/stableid.json
+Successfully loaded stable ids: GameData\stableid.json
+Sending ResponseJoinGame
+I0820 14:59:01.090840 140308030777152 sc2_env.py:314] Environment is ready
+I0820 14:59:01.107856 140308030777152 sc2_env.py:506] Starting episode 1: [terran, zerg] on DefeatRoaches
+W0820 14:59:01.401091 140308030777152 my_ppo_agent.py:307] Only tf.keras.optimizers.Optimiers are well supported, got a non-TF2 optimizer: <tensorflow.python.training.adam.AdamOptimizer object at 0x7f9bef3aac40>
+I0820 14:59:01.413542 140308030777152 common.py:977] Checkpoint available: ./results/DefeatRoaches/checkpoints/collect_policy/ckpt-11484
+I0820 14:59:01.706731 140308030777152 common.py:977] Checkpoint available: ./results/DefeatRoaches/checkpoints/policy/ckpt-11484
+2020-08-20 14:59:01.929131: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:118] None of the MLIR optimization passes are enabled (registered 1)
+Game has started.
+I0820 14:59:02.008324 140308030777152 sc2_env.py:506] Starting episode 2: [terran, zerg] on DefeatRoaches
+I0820 14:59:05.087042 140303923128064 sc2_env.py:722] Episode 2 finished after 768 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 14:59:05.109812 140303923128064 sc2_env.py:506] Starting episode 3: [terran, zerg] on DefeatRoaches
+I0820 14:59:08.993466 140304258672384 sc2_env.py:722] Episode 3 finished after 1920 game steps. Outcome: [1], reward: [0], score: [245]
+Game has started.
+I0820 14:59:09.016910 140303931520768 sc2_env.py:506] Starting episode 4: [terran, zerg] on DefeatRoaches
+I0820 14:59:11.095074 140303956698880 sc2_env.py:722] Episode 4 finished after 1144 game steps. Outcome: [-1], reward: [-1], score: [91]
+Game has started.
+I0820 14:59:11.118870 140304258672384 sc2_env.py:506] Starting episode 5: [terran, zerg] on DefeatRoaches
+I0820 14:59:12.723322 140303956698880 sc2_env.py:722] Episode 5 finished after 912 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 14:59:12.746573 140304275457792 sc2_env.py:506] Starting episode 6: [terran, zerg] on DefeatRoaches
+I0820 14:59:14.142223 140303965091584 sc2_env.py:722] Episode 6 finished after 776 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 14:59:14.166697 140303923128064 sc2_env.py:506] Starting episode 7: [terran, zerg] on DefeatRoaches
+I0820 14:59:15.373534 140304275457792 sc2_env.py:722] Episode 7 finished after 696 game steps. Outcome: [-1], reward: [-1], score: [45]
+Game has started.
+I0820 14:59:15.394406 140303939913472 sc2_env.py:506] Starting episode 8: [terran, zerg] on DefeatRoaches
+I0820 14:59:17.252253 140303965091584 sc2_env.py:722] Episode 8 finished after 1048 game steps. Outcome: [-1], reward: [-1], score: [71]
+Game has started.
+I0820 14:59:17.277530 140304258672384 sc2_env.py:506] Starting episode 9: [terran, zerg] on DefeatRoaches
+I0820 14:59:18.861749 140304267065088 sc2_env.py:722] Episode 9 finished after 888 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 14:59:18.881952 140304250279680 sc2_env.py:506] Starting episode 10: [terran, zerg] on DefeatRoaches
+I0820 14:59:20.315527 140303923128064 sc2_env.py:722] Episode 10 finished after 800 game steps. Outcome: [-1], reward: [-2], score: [46]
+Game has started.
+I0820 14:59:20.333881 140303914735360 sc2_env.py:506] Starting episode 11: [terran, zerg] on DefeatRoaches
+I0820 14:59:21.532703 140303931520768 sc2_env.py:722] Episode 11 finished after 696 game steps. Outcome: [-1], reward: [-1], score: [36]
+Game has started.
+I0820 14:59:21.553409 140303939913472 sc2_env.py:506] Starting episode 12: [terran, zerg] on DefeatRoaches
+I0820 14:59:23.142466 140304258672384 sc2_env.py:722] Episode 12 finished after 888 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 14:59:23.161473 140304250279680 sc2_env.py:506] Starting episode 13: [terran, zerg] on DefeatRoaches
+I0820 14:59:23.848195 140303965091584 sc2_env.py:722] Episode 13 finished after 400 game steps. Outcome: [-1], reward: [-1], score: [11]
+Game has started.
+I0820 14:59:23.866860 140304258672384 sc2_env.py:506] Starting episode 14: [terran, zerg] on DefeatRoaches
+I0820 14:59:25.124558 140303948306176 sc2_env.py:722] Episode 14 finished after 712 game steps. Outcome: [-1], reward: [-1], score: [36]
+Game has started.
+I0820 14:59:25.149730 140303939913472 sc2_env.py:506] Starting episode 15: [terran, zerg] on DefeatRoaches
+I0820 14:59:26.617732 140304250279680 sc2_env.py:722] Episode 15 finished after 832 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 14:59:26.644974 140303914735360 sc2_env.py:506] Starting episode 16: [terran, zerg] on DefeatRoaches
+I0820 14:59:27.940348 140304283850496 sc2_env.py:722] Episode 16 finished after 736 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 14:59:27.965032 140303965091584 sc2_env.py:506] Starting episode 17: [terran, zerg] on DefeatRoaches
+I0820 14:59:29.890651 140303939913472 sc2_env.py:722] Episode 17 finished after 1056 game steps. Outcome: [-1], reward: [-1], score: [71]
+Game has started.
+I0820 14:59:29.912166 140304267065088 sc2_env.py:506] Starting episode 18: [terran, zerg] on DefeatRoaches
+I0820 14:59:31.240739 140304250279680 sc2_env.py:722] Episode 18 finished after 768 game steps. Outcome: [-1], reward: [-1], score: [55]
+Game has started.
+I0820 14:59:31.262709 140304267065088 sc2_env.py:506] Starting episode 19: [terran, zerg] on DefeatRoaches
+I0820 14:59:32.675355 140304283850496 sc2_env.py:722] Episode 19 finished after 792 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 14:59:32.699908 140303965091584 sc2_env.py:506] Starting episode 20: [terran, zerg] on DefeatRoaches
+I0820 14:59:36.606334 140304267065088 sc2_env.py:722] Episode 20 finished after 1920 game steps. Outcome: [1], reward: [0], score: [255]
+Game has started.
+I0820 14:59:36.631085 140304275457792 sc2_env.py:506] Starting episode 21: [terran, zerg] on DefeatRoaches
+I0820 14:59:38.590195 140303965091584 sc2_env.py:722] Episode 21 finished after 1120 game steps. Outcome: [-1], reward: [-1], score: [71]
+Game has started.
+I0820 14:59:38.610488 140304275457792 sc2_env.py:506] Starting episode 22: [terran, zerg] on DefeatRoaches
+I0820 14:59:40.119247 140303939913472 sc2_env.py:722] Episode 22 finished after 864 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 14:59:40.137018 140304283850496 sc2_env.py:506] Starting episode 23: [terran, zerg] on DefeatRoaches
+I0820 14:59:40.974696 140304267065088 sc2_env.py:722] Episode 23 finished after 488 game steps. Outcome: [-1], reward: [-1], score: [21]
+Game has started.
+I0820 14:59:40.997063 140304283850496 sc2_env.py:506] Starting episode 24: [terran, zerg] on DefeatRoaches
+I0820 14:59:43.038975 140303931520768 sc2_env.py:722] Episode 24 finished after 1096 game steps. Outcome: [-1], reward: [-1], score: [81]
+Game has started.
+I0820 14:59:43.062116 140303939913472 sc2_env.py:506] Starting episode 25: [terran, zerg] on DefeatRoaches
+I0820 14:59:43.991211 140303948306176 sc2_env.py:722] Episode 25 finished after 544 game steps. Outcome: [-1], reward: [-1], score: [21]
+Game has started.
+I0820 14:59:44.009741 140303939913472 sc2_env.py:506] Starting episode 26: [terran, zerg] on DefeatRoaches
+I0820 14:59:46.743136 140304283850496 sc2_env.py:722] Episode 26 finished after 1488 game steps. Outcome: [-1], reward: [-1], score: [116]
+Game has started.
+I0820 14:59:46.762823 140303939913472 sc2_env.py:506] Starting episode 27: [terran, zerg] on DefeatRoaches
+I0820 14:59:48.150044 140303931520768 sc2_env.py:722] Episode 27 finished after 808 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 14:59:48.174033 140303965091584 sc2_env.py:506] Starting episode 28: [terran, zerg] on DefeatRoaches
+I0820 14:59:49.617849 140304258672384 sc2_env.py:722] Episode 28 finished after 848 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 14:59:49.641215 140303965091584 sc2_env.py:506] Starting episode 29: [terran, zerg] on DefeatRoaches
+I0820 14:59:53.460886 140303956698880 sc2_env.py:722] Episode 29 finished after 1920 game steps. Outcome: [1], reward: [0], score: [244]
+Game has started.
+I0820 14:59:53.480811 140303931520768 sc2_env.py:506] Starting episode 30: [terran, zerg] on DefeatRoaches
+I0820 14:59:55.448763 140303948306176 sc2_env.py:722] Episode 30 finished after 1096 game steps. Outcome: [-1], reward: [-1], score: [81]
+Game has started.
+I0820 14:59:55.471586 140303914735360 sc2_env.py:506] Starting episode 31: [terran, zerg] on DefeatRoaches
+I0820 14:59:56.716073 140303931520768 sc2_env.py:722] Episode 31 finished after 720 game steps. Outcome: [-1], reward: [-1], score: [36]
+Game has started.
+I0820 14:59:56.734452 140303965091584 sc2_env.py:506] Starting episode 32: [terran, zerg] on DefeatRoaches
+I0820 14:59:58.203473 140303931520768 sc2_env.py:722] Episode 32 finished after 832 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 14:59:58.226496 140304275457792 sc2_env.py:506] Starting episode 33: [terran, zerg] on DefeatRoaches
+I0820 14:59:59.541543 140303914735360 sc2_env.py:722] Episode 33 finished after 760 game steps. Outcome: [-1], reward: [-1], score: [36]
+Game has started.
+I0820 14:59:59.565528 140303931520768 sc2_env.py:506] Starting episode 34: [terran, zerg] on DefeatRoaches
+I0820 15:00:03.417162 140304267065088 sc2_env.py:722] Episode 34 finished after 1920 game steps. Outcome: [1], reward: [0], score: [251]
+Game has started.
+I0820 15:00:03.442844 140303939913472 sc2_env.py:506] Starting episode 35: [terran, zerg] on DefeatRoaches
+I0820 15:00:04.650500 140304250279680 sc2_env.py:722] Episode 35 finished after 696 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 15:00:04.674025 140303948306176 sc2_env.py:506] Starting episode 36: [terran, zerg] on DefeatRoaches
+I0820 15:00:05.974808 140303914735360 sc2_env.py:722] Episode 36 finished after 752 game steps. Outcome: [-1], reward: [-1], score: [36]
+Game has started.
+I0820 15:00:05.992936 140304258672384 sc2_env.py:506] Starting episode 37: [terran, zerg] on DefeatRoaches
+I0820 15:00:07.467712 140303948306176 sc2_env.py:722] Episode 37 finished after 840 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 15:00:07.487982 140303965091584 sc2_env.py:506] Starting episode 38: [terran, zerg] on DefeatRoaches
+I0820 15:00:11.231741 140303965091584 sc2_env.py:722] Episode 38 finished after 1920 game steps. Outcome: [1], reward: [10], score: [241]
+Game has started.
+I0820 15:00:11.255095 140304267065088 sc2_env.py:506] Starting episode 39: [terran, zerg] on DefeatRoaches
+I0820 15:00:13.360028 140303965091584 sc2_env.py:722] Episode 39 finished after 1200 game steps. Outcome: [-1], reward: [-1], score: [91]
+Game has started.
+I0820 15:00:13.381582 140304283850496 sc2_env.py:506] Starting episode 40: [terran, zerg] on DefeatRoaches
+I0820 15:00:14.944859 140303965091584 sc2_env.py:722] Episode 40 finished after 896 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 15:00:14.967943 140304283850496 sc2_env.py:506] Starting episode 41: [terran, zerg] on DefeatRoaches
+I0820 15:00:16.783436 140303931520768 sc2_env.py:722] Episode 41 finished after 1016 game steps. Outcome: [-1], reward: [-1], score: [71]
+Game has started.
+I0820 15:00:16.802453 140303914735360 sc2_env.py:506] Starting episode 42: [terran, zerg] on DefeatRoaches
+I0820 15:00:20.356579 140303914735360 sc2_env.py:722] Episode 42 finished after 1920 game steps. Outcome: [1], reward: [10], score: [190]
+Game has started.
+I0820 15:00:20.378565 140303939913472 sc2_env.py:506] Starting episode 43: [terran, zerg] on DefeatRoaches
+I0820 15:00:24.028513 140303965091584 sc2_env.py:722] Episode 43 finished after 1920 game steps. Outcome: [1], reward: [0], score: [190]
+Game has started.
+I0820 15:00:24.046636 140303931520768 sc2_env.py:506] Starting episode 44: [terran, zerg] on DefeatRoaches
+I0820 15:00:27.608868 140303923128064 sc2_env.py:722] Episode 44 finished after 1920 game steps. Outcome: [1], reward: [-1], score: [180]
+Game has started.
+I0820 15:00:27.630572 140304267065088 sc2_env.py:506] Starting episode 45: [terran, zerg] on DefeatRoaches
+I0820 15:00:30.269503 140303956698880 sc2_env.py:722] Episode 45 finished after 1448 game steps. Outcome: [-1], reward: [-1], score: [116]
+Game has started.
+I0820 15:00:30.293437 140304250279680 sc2_env.py:506] Starting episode 46: [terran, zerg] on DefeatRoaches
+I0820 15:00:31.803272 140303939913472 sc2_env.py:722] Episode 46 finished after 904 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 15:00:31.825367 140303948306176 sc2_env.py:506] Starting episode 47: [terran, zerg] on DefeatRoaches
+I0820 15:00:35.628244 140304283850496 sc2_env.py:722] Episode 47 finished after 1920 game steps. Outcome: [1], reward: [0], score: [249]
+Game has started.
+I0820 15:00:35.651922 140303939913472 sc2_env.py:506] Starting episode 48: [terran, zerg] on DefeatRoaches
+I0820 15:00:39.612580 140303956698880 sc2_env.py:722] Episode 48 finished after 1920 game steps. Outcome: [1], reward: [0], score: [275]
+Game has started.
+I0820 15:00:39.632530 140303923128064 sc2_env.py:506] Starting episode 49: [terran, zerg] on DefeatRoaches
+I0820 15:00:41.037421 140303965091584 sc2_env.py:722] Episode 49 finished after 816 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 15:00:41.060637 140303923128064 sc2_env.py:506] Starting episode 50: [terran, zerg] on DefeatRoaches
+I0820 15:00:41.998742 140304283850496 sc2_env.py:722] Episode 50 finished after 528 game steps. Outcome: [-1], reward: [-1], score: [21]
+Game has started.
+I0820 15:00:42.018240 140303939913472 sc2_env.py:506] Starting episode 51: [terran, zerg] on DefeatRoaches
+I0820 15:00:43.662910 140303914735360 sc2_env.py:722] Episode 51 finished after 952 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 15:00:43.686213 140304267065088 sc2_env.py:506] Starting episode 52: [terran, zerg] on DefeatRoaches
+I0820 15:00:45.599387 140304275457792 sc2_env.py:722] Episode 52 finished after 1104 game steps. Outcome: [-1], reward: [-1], score: [70]
+Game has started.
+I0820 15:00:45.617687 140304267065088 sc2_env.py:506] Starting episode 53: [terran, zerg] on DefeatRoaches
+I0820 15:00:46.968689 140303965091584 sc2_env.py:722] Episode 53 finished after 760 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 15:00:46.990578 140303956698880 sc2_env.py:506] Starting episode 54: [terran, zerg] on DefeatRoaches
+I0820 15:00:48.559875 140303914735360 sc2_env.py:722] Episode 54 finished after 904 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 15:00:48.582427 140303931520768 sc2_env.py:506] Starting episode 55: [terran, zerg] on DefeatRoaches
+I0820 15:00:50.008373 140303965091584 sc2_env.py:722] Episode 55 finished after 800 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 15:00:50.031830 140304275457792 sc2_env.py:506] Starting episode 56: [terran, zerg] on DefeatRoaches
+I0820 15:00:51.244117 140304275457792 sc2_env.py:722] Episode 56 finished after 712 game steps. Outcome: [-1], reward: [-1], score: [36]
+Game has started.
+I0820 15:00:51.265686 140303956698880 sc2_env.py:506] Starting episode 57: [terran, zerg] on DefeatRoaches
+I0820 15:00:52.562070 140303931520768 sc2_env.py:722] Episode 57 finished after 760 game steps. Outcome: [-1], reward: [-1], score: [45]
+Game has started.
+I0820 15:00:52.585288 140304275457792 sc2_env.py:506] Starting episode 58: [terran, zerg] on DefeatRoaches
+I0820 15:00:53.891095 140303939913472 sc2_env.py:722] Episode 58 finished after 744 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 15:00:53.909947 140304283850496 sc2_env.py:506] Starting episode 59: [terran, zerg] on DefeatRoaches
+I0820 15:00:55.454874 140303914735360 sc2_env.py:722] Episode 59 finished after 872 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 15:00:55.476287 140303939913472 sc2_env.py:506] Starting episode 60: [terran, zerg] on DefeatRoaches
+I0820 15:00:57.347724 140303939913472 sc2_env.py:722] Episode 60 finished after 1048 game steps. Outcome: [-1], reward: [-1], score: [71]
+Game has started.
+I0820 15:00:57.369205 140304283850496 sc2_env.py:506] Starting episode 61: [terran, zerg] on DefeatRoaches
+I0820 15:00:59.513843 140304250279680 sc2_env.py:722] Episode 61 finished after 1232 game steps. Outcome: [-1], reward: [-1], score: [91]
+Game has started.
+I0820 15:00:59.536784 140304275457792 sc2_env.py:506] Starting episode 62: [terran, zerg] on DefeatRoaches
+I0820 15:01:00.955585 140304283850496 sc2_env.py:722] Episode 62 finished after 800 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 15:01:00.981831 140303931520768 sc2_env.py:506] Starting episode 63: [terran, zerg] on DefeatRoaches
+I0820 15:01:02.338307 140303939913472 sc2_env.py:722] Episode 63 finished after 784 game steps. Outcome: [-1], reward: [-1], score: [36]
+Game has started.
+I0820 15:01:02.356673 140303956698880 sc2_env.py:506] Starting episode 64: [terran, zerg] on DefeatRoaches
+I0820 15:01:03.623109 140303923128064 sc2_env.py:722] Episode 64 finished after 728 game steps. Outcome: [-1], reward: [-1], score: [36]
+Game has started.
+I0820 15:01:03.648853 140304250279680 sc2_env.py:506] Starting episode 65: [terran, zerg] on DefeatRoaches
+I0820 15:01:05.071232 140304250279680 sc2_env.py:722] Episode 65 finished after 784 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 15:01:05.091288 140303923128064 sc2_env.py:506] Starting episode 66: [terran, zerg] on DefeatRoaches
+I0820 15:01:06.434416 140304283850496 sc2_env.py:722] Episode 66 finished after 728 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 15:01:06.454579 140304267065088 sc2_env.py:506] Starting episode 67: [terran, zerg] on DefeatRoaches
+I0820 15:01:07.909815 140303939913472 sc2_env.py:722] Episode 67 finished after 816 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 15:01:07.927354 140303931520768 sc2_env.py:506] Starting episode 68: [terran, zerg] on DefeatRoaches
+I0820 15:01:09.254985 140304250279680 sc2_env.py:722] Episode 68 finished after 744 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 15:01:09.275857 140303965091584 sc2_env.py:506] Starting episode 69: [terran, zerg] on DefeatRoaches
+I0820 15:01:12.999290 140304275457792 sc2_env.py:722] Episode 69 finished after 1920 game steps. Outcome: [1], reward: [0], score: [240]
+Game has started.
+I0820 15:01:13.018415 140304275457792 sc2_env.py:506] Starting episode 70: [terran, zerg] on DefeatRoaches
+I0820 15:01:14.270883 140304267065088 sc2_env.py:722] Episode 70 finished after 744 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 15:01:14.289904 140303965091584 sc2_env.py:506] Starting episode 71: [terran, zerg] on DefeatRoaches
+I0820 15:01:15.735448 140303931520768 sc2_env.py:722] Episode 71 finished after 800 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 15:01:15.753821 140303948306176 sc2_env.py:506] Starting episode 72: [terran, zerg] on DefeatRoaches
+I0820 15:01:16.708950 140304267065088 sc2_env.py:722] Episode 72 finished after 552 game steps. Outcome: [-1], reward: [-1], score: [21]
+Game has started.
+I0820 15:01:16.731082 140304250279680 sc2_env.py:506] Starting episode 73: [terran, zerg] on DefeatRoaches
+I0820 15:01:17.969386 140303931520768 sc2_env.py:722] Episode 73 finished after 696 game steps. Outcome: [-1], reward: [-1], score: [36]
+Game has started.
+I0820 15:01:17.993943 140304283850496 sc2_env.py:506] Starting episode 74: [terran, zerg] on DefeatRoaches
+I0820 15:01:19.329427 140303956698880 sc2_env.py:722] Episode 74 finished after 728 game steps. Outcome: [-1], reward: [-1], score: [36]
+Game has started.
+I0820 15:01:19.351411 140303948306176 sc2_env.py:506] Starting episode 75: [terran, zerg] on DefeatRoaches
+I0820 15:01:20.789555 140303948306176 sc2_env.py:722] Episode 75 finished after 816 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 15:01:20.807796 140304275457792 sc2_env.py:506] Starting episode 76: [terran, zerg] on DefeatRoaches
+I0820 15:01:22.133466 140303931520768 sc2_env.py:722] Episode 76 finished after 752 game steps. Outcome: [-1], reward: [-1], score: [36]
+Game has started.
+I0820 15:01:22.152393 140303939913472 sc2_env.py:506] Starting episode 77: [terran, zerg] on DefeatRoaches
+I0820 15:01:23.638299 140303965091584 sc2_env.py:722] Episode 77 finished after 840 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 15:01:23.658674 140304283850496 sc2_env.py:506] Starting episode 78: [terran, zerg] on DefeatRoaches
+I0820 15:01:25.250808 140304258672384 sc2_env.py:722] Episode 78 finished after 904 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 15:01:25.270889 140303931520768 sc2_env.py:506] Starting episode 79: [terran, zerg] on DefeatRoaches
+I0820 15:01:27.060279 140303965091584 sc2_env.py:722] Episode 79 finished after 936 game steps. Outcome: [-1], reward: [-1], score: [71]
+Game has started.
+I0820 15:01:27.082697 140303914735360 sc2_env.py:506] Starting episode 80: [terran, zerg] on DefeatRoaches
+I0820 15:01:29.046567 140304267065088 sc2_env.py:722] Episode 80 finished after 1056 game steps. Outcome: [-1], reward: [-1], score: [81]
+Game has started.
+I0820 15:01:29.068923 140304250279680 sc2_env.py:506] Starting episode 81: [terran, zerg] on DefeatRoaches
+I0820 15:01:30.524132 140303931520768 sc2_env.py:722] Episode 81 finished after 816 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 15:01:30.543048 140303923128064 sc2_env.py:506] Starting episode 82: [terran, zerg] on DefeatRoaches
+I0820 15:01:31.906714 140303939913472 sc2_env.py:722] Episode 82 finished after 760 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 15:01:31.931104 140303939913472 sc2_env.py:506] Starting episode 83: [terran, zerg] on DefeatRoaches
+I0820 15:01:33.416089 140304283850496 sc2_env.py:722] Episode 83 finished after 824 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 15:01:33.438939 140303956698880 sc2_env.py:506] Starting episode 84: [terran, zerg] on DefeatRoaches
+I0820 15:01:34.799961 140303914735360 sc2_env.py:722] Episode 84 finished after 760 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 15:01:34.819754 140304283850496 sc2_env.py:506] Starting episode 85: [terran, zerg] on DefeatRoaches
+I0820 15:01:36.249488 140303948306176 sc2_env.py:722] Episode 85 finished after 776 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 15:01:36.270244 140304258672384 sc2_env.py:506] Starting episode 86: [terran, zerg] on DefeatRoaches
+I0820 15:01:37.675849 140303914735360 sc2_env.py:722] Episode 86 finished after 792 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 15:01:37.699021 140303939913472 sc2_env.py:506] Starting episode 87: [terran, zerg] on DefeatRoaches
+I0820 15:01:39.257545 140303914735360 sc2_env.py:722] Episode 87 finished after 880 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 15:01:39.276213 140303923128064 sc2_env.py:506] Starting episode 88: [terran, zerg] on DefeatRoaches
+I0820 15:01:42.978480 140304275457792 sc2_env.py:722] Episode 88 finished after 1920 game steps. Outcome: [1], reward: [0], score: [221]
+Game has started.
+I0820 15:01:43.003413 140304250279680 sc2_env.py:506] Starting episode 89: [terran, zerg] on DefeatRoaches
+I0820 15:01:44.417345 140303931520768 sc2_env.py:722] Episode 89 finished after 792 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 15:01:44.441352 140304267065088 sc2_env.py:506] Starting episode 90: [terran, zerg] on DefeatRoaches
+I0820 15:01:47.222224 140303939913472 sc2_env.py:722] Episode 90 finished after 1560 game steps. Outcome: [-1], reward: [-1], score: [126]
+Game has started.
+I0820 15:01:47.240909 140304283850496 sc2_env.py:506] Starting episode 91: [terran, zerg] on DefeatRoaches
+I0820 15:01:48.723167 140303923128064 sc2_env.py:722] Episode 91 finished after 840 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 15:01:48.741239 140304250279680 sc2_env.py:506] Starting episode 92: [terran, zerg] on DefeatRoaches
+I0820 15:01:50.217863 140303965091584 sc2_env.py:722] Episode 92 finished after 824 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 15:01:50.240798 140303931520768 sc2_env.py:506] Starting episode 93: [terran, zerg] on DefeatRoaches
+I0820 15:01:51.485196 140303956698880 sc2_env.py:722] Episode 93 finished after 696 game steps. Outcome: [-1], reward: [-1], score: [36]
+Game has started.
+I0820 15:01:51.504355 140304283850496 sc2_env.py:506] Starting episode 94: [terran, zerg] on DefeatRoaches
+I0820 15:01:52.758181 140303931520768 sc2_env.py:722] Episode 94 finished after 720 game steps. Outcome: [-1], reward: [-1], score: [36]
+Game has started.
+I0820 15:01:52.781309 140304267065088 sc2_env.py:506] Starting episode 95: [terran, zerg] on DefeatRoaches
+I0820 15:01:56.306437 140303923128064 sc2_env.py:722] Episode 95 finished after 1920 game steps. Outcome: [1], reward: [0], score: [189]
+Game has started.
+I0820 15:01:56.325200 140303965091584 sc2_env.py:506] Starting episode 96: [terran, zerg] on DefeatRoaches
+I0820 15:01:58.277453 140303956698880 sc2_env.py:722] Episode 96 finished after 1096 game steps. Outcome: [-1], reward: [-1], score: [71]
+Game has started.
+I0820 15:01:58.296596 140304258672384 sc2_env.py:506] Starting episode 97: [terran, zerg] on DefeatRoaches
+I0820 15:02:00.294126 140304283850496 sc2_env.py:722] Episode 97 finished after 1112 game steps. Outcome: [-1], reward: [-1], score: [71]
+Game has started.
+I0820 15:02:00.315418 140303965091584 sc2_env.py:506] Starting episode 98: [terran, zerg] on DefeatRoaches
+I0820 15:02:02.368093 140303965091584 sc2_env.py:722] Episode 98 finished after 1128 game steps. Outcome: [-1], reward: [-1], score: [81]
+Game has started.
+I0820 15:02:02.387940 140304275457792 sc2_env.py:506] Starting episode 99: [terran, zerg] on DefeatRoaches
+I0820 15:02:06.269757 140304275457792 sc2_env.py:722] Episode 99 finished after 1920 game steps. Outcome: [1], reward: [0], score: [252]
+Game has started.
+I0820 15:02:06.288896 140304267065088 sc2_env.py:506] Starting episode 100: [terran, zerg] on DefeatRoaches
+I0820 15:02:07.756031 140303939913472 sc2_env.py:722] Episode 100 finished after 816 game steps. Outcome: [-1], reward: [-1], score: [46]
+Game has started.
+I0820 15:02:07.780159 140303914735360 sc2_env.py:506] Starting episode 101: [terran, zerg] on DefeatRoaches
+I0820 15:02:09.089420 140304283850496 sc2_env.py:722] Episode 101 finished after 768 game steps. Outcome: [-1], reward: [-1], score: [56]
+Game has started.
+I0820 15:02:09.114017 140303923128064 sc2_env.py:506] Starting episode 102: [terran, zerg] on DefeatRoaches
+I0820 15:02:09.479861 140308030777152 ppo_eval.py:84] 
+AverageReturn: 78.59
+AverageEpisodeLength: 125.76
+MaxReturn: 275.0
+MinReturn: 11.0
+ReturnStd: 64.85432
+ChosenActionIDHistogram: [4 4 4 4 1 0 2 2 2 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 0 2 2 2 2 2 2 2 2 2 4 4 4 4 4 2 0 4 1 4 4 4 0 4 4 4 4 4 0
+ 0 2 4 4 4 4 0 1 0 0 0 0 0 0 0 0 0 0 0 4 4 4 4 2 2 2 2 2 2 4 4 4 1 1 1 2 4
+ 1 1 1 0 1 1 1 1 0 1 1 1 0 1 2 1 2 2 2 2 2 2 1 2 2 0 2 2 2 2 0 4 4 2 2 2 2
+ 0 0 0 0 0 2 0 0 0 0 2 0 0 0 1 0 0 0 2 2 2 2 2 2 2 1 2 2 0 2 1 2 2 2 1 2 2
+ 4 4 4 4 0 0 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 0 0 2 1 2 0 1 1 1 1 1 0
+ 2 2 0 0 2 2 2 2 1 1 1 1 1 4 4 4 4 2 2 2 0 1 0 0 0 0 0 1 0 0 0 0 2 2 2 0 0
+ 0 0 1 0 0 0 0 1 0 0 2 2 0 0 0 4 4 2 2 2 2 2 2 2 2 2 2 0 2 2 2 2 2 1 0 2 2
+ 2 2 2 2 1 2 0 1 0 0 4 4 4 4 0 0 2 0 0 0 0 2 2 1 1 2 2 2 0 2 2 2 4 2 2 2 2
+ 2 2 0 2 2 2 2 2 4 4 4 4 4 0 0 0 0 0 0 1 4 2 0 0 0 0 4 2 2 2 2 4 0 0 0 2 0
+ 2 2 2 2 2 2 4 4 4 4 4 2 2 1 2 2 2 2 2 2 2 2 2 1 2 1 2 2 2 0 2 2 2 2 4 2 2
+ 2 4 4 2 2 0 0 0 0 0 0 0 0 0 2 2 2 2 0 0 0 0 0 0 0 2 0 0 1 2 4 4 4 2 0 2 1
+ 2 1 4 2 1 2 2 2 2 2 2 2 2 2 1 2 2 2 2 2 1 4 4 4 4 4 2 2 2 2 1 0 4 4 4 4 4
+ 2 2 2 2 1 2 2 2 2 2 2 2 2 2 2 2 0 2 2 2 2 2 2 2 1 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 0 2 1 2 2 4 4 4 1 1 1 0 0 2 4 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 2 2 2 2 2 2 2 2 2 4 4 4 4 4 4 2 0 1 4 4 0 0
+ 0 0 0 2 0 1 2 0 0 0 0 0 0 1 0 1 0 1 2 1 0 2 2 0 1 2 2 2 2 2 2 2 0 4 4 0 0
+ 0 4 4 4 0 1 0 0 0 0 2 0 0 0 1 0 1 0 0 2 1 1 2 1 2 2 2 2 2 0 1 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 4 2 2 2 2 2 2 2 2 2 2 2 2 4 4 4 0 0 2 1 0 0 4
+ 0 2 2 2 1 2 2 2 2 0 2 2 1 2 2 1 2 2 0 2 0 0 2 2 2 2 2 2 2 2 1 1 4 4 4 4 4
+ 0 0 0 0 0 0 4 0 2 2 0 0 2 0 2 2 2 2 2 2 0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2 2
+ 2 2 2 4 4 4 0 0 0 4 4 4 4 0 2 0 0 0 0 0 0 0 0 0 2 0 0 2 1 2 2 2 2 2 2 2 1
+ 1 4 4 4 4 4 2 2 2 0 2 2 4 4 4 4 0 2 2 4 4 4 4 4 4 4 0 0 4 4 0 1 1 0 1 1 0
+ 1 1 1 0 0 0 0 0 0 0 0 0 2 0 4 4 4 0 0 0 0 0 4 0 0 0 0 0 0 0 0 2 0 2 0 0 0
+ 2 2 0 0 2 2 2 2 2 0 2 2 0 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 2 2 2 2 4 4 4 4 1
+ 0 0 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 2 2 2 1 2 2 2 2 4 4 4 4 2 2 2 0 1
+ 2 4 4 2 2 2 0 2 2 2 2 0 2 1 2 2 2 2 2 2 2 2 2 2 1 2 2 2 2 2 2 2 2 2 2 2 1
+ 4]
+I0820 15:02:09.480032 140308030777152 parallel_py_environment.py:165] Closing all processes.
+I0820 15:02:09.521794 140308030777152 parallel_py_environment.py:168] All processes closed.
+I0820 15:02:09.522197 140303092676352 sc2_env.py:752] Environment Close
+RequestQuit command received.
+Closing Application...
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:50348 disconnected
+I0820 15:02:09.623420 140303092676352 sc_process.py:232] Shutdown gracefully.
+I0820 15:02:09.623675 140303092676352 sc_process.py:210] Shutdown with return code: -15

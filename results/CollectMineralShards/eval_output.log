@@ -1,0 +1,431 @@
+USED CHECKPOINT: best/ckpt-5148
+
+2020-08-20 15:38:53.908541: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcudart.so.10.1'; dlerror: libcudart.so.10.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-20 15:38:53.908592: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+I0820 15:38:55.394168 140089949108032 parallel_py_environment.py:102] Spawning all processes.
+2020-08-20 15:38:55.416146: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-20 15:38:55.416219: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-20 15:38:55.416257: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-20 15:38:55.416760: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+I0820 15:38:55.419961 140089949108032 parallel_py_environment.py:106] Waiting for all processes to start.
+2020-08-20 15:38:55.422242: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-20 15:38:55.422293: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-20 15:38:55.422325: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-20 15:38:55.422875: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-20 15:38:55.424617: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-20 15:38:55.424660: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-20 15:38:55.424688: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-20 15:38:55.425148: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-20 15:38:55.431415: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194015000 Hz
+2020-08-20 15:38:55.432043: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5d82360 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-20 15:38:55.432067: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-08-20 15:38:55.435026: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194015000 Hz
+2020-08-20 15:38:55.435587: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5d82360 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-20 15:38:55.435628: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-08-20 15:38:55.435689: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-20 15:38:55.435751: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-20 15:38:55.435788: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-20 15:38:55.436287: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-20 15:38:55.442989: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194015000 Hz
+2020-08-20 15:38:55.444251: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5d82360 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-20 15:38:55.444306: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-08-20 15:38:55.447118: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194015000 Hz
+2020-08-20 15:38:55.447900: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5d82360 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-20 15:38:55.447950: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+I0820 15:38:55.473239 140089949108032 parallel_py_environment.py:109] All processes started.
+2020-08-20 15:38:55.489773: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-20 15:38:55.489825: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-20 15:38:55.489858: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-20 15:38:55.490226: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-20 15:38:55.498203: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194015000 Hz
+2020-08-20 15:38:55.498982: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5d82360 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-20 15:38:55.499028: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+I0820 15:38:55.510632 140089949108032 sc_process.py:135] Launching SC2: /home/ricechrispi/StarCraftII/Versions/Base75689/SC2_x64 -listen 127.0.0.1 -port 17021 -dataDir /home/ricechrispi/StarCraftII/ -tempDir /tmp/sc-pwaa21r2/
+I0820 15:38:55.521409 140089949108032 remote_controller.py:166] Connecting to: ws://127.0.0.1:17021/sc2api, attempt: 0, running: True
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/ricechrispi/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 17021 -dataDir /home/ricechrispi/StarCraftII/ -tempDir /tmp/sc-pwaa21r2/'
+Starting up...
+Startup Phase 1 complete
+I0820 15:38:56.522935 140089949108032 remote_controller.py:166] Connecting to: ws://127.0.0.1:17021/sc2api, attempt: 1, running: True
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:17021
+Startup Phase 3 complete. Ready for commands.
+I0820 15:38:57.524581 140089949108032 remote_controller.py:166] Connecting to: ws://127.0.0.1:17021/sc2api, attempt: 2, running: True
+ConnectHandler: Request from 127.0.0.1:54274 accepted
+ReadyHandler: 127.0.0.1:54274 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface enabled
+Configure: score interface enabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Using default stable ids, none found at: /home/ricechrispi/StarCraftII/stableid.json
+Successfully loaded stable ids: GameData\stableid.json
+Sending ResponseJoinGame
+I0820 15:39:02.778398 140089949108032 sc2_env.py:314] Environment is ready
+I0820 15:39:02.794897 140089949108032 sc2_env.py:506] Starting episode 1: [terran] on CollectMineralShards
+W0820 15:39:03.096027 140089949108032 my_ppo_agent.py:307] Only tf.keras.optimizers.Optimiers are well supported, got a non-TF2 optimizer: <tensorflow.python.training.adam.AdamOptimizer object at 0x7f692a8c7c40>
+I0820 15:39:03.111897 140089949108032 common.py:977] Checkpoint available: ./results/CollectMineralShards/checkpoints/collect_policy/ckpt-5148
+I0820 15:39:03.400486 140089949108032 common.py:977] Checkpoint available: ./results/CollectMineralShards/checkpoints/policy/ckpt-5148
+2020-08-20 15:39:03.648871: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:118] None of the MLIR optimization passes are enabled (registered 1)
+Game has started.
+I0820 15:39:03.723491 140089949108032 sc2_env.py:506] Starting episode 2: [terran] on CollectMineralShards
+I0820 15:39:08.541586 140085953537792 sc2_env.py:722] Episode 2 finished after 1920 game steps. Outcome: [1], reward: [1], score: [88]
+Game has started.
+I0820 15:39:08.569916 140085961930496 sc2_env.py:506] Starting episode 3: [terran] on CollectMineralShards
+I0820 15:39:11.584986 140085987108608 sc2_env.py:722] Episode 3 finished after 1920 game steps. Outcome: [1], reward: [0], score: [98]
+Game has started.
+I0820 15:39:11.613326 140085777389312 sc2_env.py:506] Starting episode 4: [terran] on CollectMineralShards
+I0820 15:39:14.595259 140085794174720 sc2_env.py:722] Episode 4 finished after 1920 game steps. Outcome: [1], reward: [0], score: [78]
+Game has started.
+I0820 15:39:14.623382 140085777389312 sc2_env.py:506] Starting episode 5: [terran] on CollectMineralShards
+I0820 15:39:17.618324 140085953537792 sc2_env.py:722] Episode 5 finished after 1920 game steps. Outcome: [1], reward: [0], score: [79]
+Game has started.
+I0820 15:39:17.644309 140085794174720 sc2_env.py:506] Starting episode 6: [terran] on CollectMineralShards
+I0820 15:39:20.711653 140085794174720 sc2_env.py:722] Episode 6 finished after 1920 game steps. Outcome: [1], reward: [0], score: [86]
+Game has started.
+I0820 15:39:20.734451 140085961930496 sc2_env.py:506] Starting episode 7: [terran] on CollectMineralShards
+I0820 15:39:23.828326 140085777389312 sc2_env.py:722] Episode 7 finished after 1920 game steps. Outcome: [1], reward: [1], score: [85]
+Game has started.
+I0820 15:39:23.857266 140085945145088 sc2_env.py:506] Starting episode 8: [terran] on CollectMineralShards
+I0820 15:39:26.954326 140085785782016 sc2_env.py:722] Episode 8 finished after 1920 game steps. Outcome: [1], reward: [3], score: [89]
+Game has started.
+I0820 15:39:26.977693 140085978715904 sc2_env.py:506] Starting episode 9: [terran] on CollectMineralShards
+I0820 15:39:29.988372 140086616233728 sc2_env.py:722] Episode 9 finished after 1920 game steps. Outcome: [1], reward: [0], score: [79]
+Game has started.
+I0820 15:39:30.010087 140085785782016 sc2_env.py:506] Starting episode 10: [terran] on CollectMineralShards
+I0820 15:39:33.007251 140085953537792 sc2_env.py:722] Episode 10 finished after 1920 game steps. Outcome: [1], reward: [0], score: [103]
+Game has started.
+I0820 15:39:33.038689 140085785782016 sc2_env.py:506] Starting episode 11: [terran] on CollectMineralShards
+I0820 15:39:36.046868 140085777389312 sc2_env.py:722] Episode 11 finished after 1920 game steps. Outcome: [1], reward: [0], score: [72]
+Game has started.
+I0820 15:39:36.075524 140085987108608 sc2_env.py:506] Starting episode 12: [terran] on CollectMineralShards
+I0820 15:39:39.083960 140086616233728 sc2_env.py:722] Episode 12 finished after 1920 game steps. Outcome: [1], reward: [0], score: [93]
+Game has started.
+I0820 15:39:39.113127 140085785782016 sc2_env.py:506] Starting episode 13: [terran] on CollectMineralShards
+I0820 15:39:42.143538 140085978715904 sc2_env.py:722] Episode 13 finished after 1920 game steps. Outcome: [1], reward: [1], score: [81]
+Game has started.
+I0820 15:39:42.170992 140085794174720 sc2_env.py:506] Starting episode 14: [terran] on CollectMineralShards
+I0820 15:39:45.232738 140085785782016 sc2_env.py:722] Episode 14 finished after 1920 game steps. Outcome: [1], reward: [0], score: [92]
+Game has started.
+I0820 15:39:45.261694 140085768996608 sc2_env.py:506] Starting episode 15: [terran] on CollectMineralShards
+I0820 15:39:48.314669 140086616233728 sc2_env.py:722] Episode 15 finished after 1920 game steps. Outcome: [1], reward: [0], score: [88]
+Game has started.
+I0820 15:39:48.339887 140085945145088 sc2_env.py:506] Starting episode 16: [terran] on CollectMineralShards
+I0820 15:39:51.405473 140085995501312 sc2_env.py:722] Episode 16 finished after 1920 game steps. Outcome: [1], reward: [0], score: [95]
+Game has started.
+I0820 15:39:51.428650 140085777389312 sc2_env.py:506] Starting episode 17: [terran] on CollectMineralShards
+I0820 15:39:54.490127 140085945145088 sc2_env.py:722] Episode 17 finished after 1920 game steps. Outcome: [1], reward: [0], score: [88]
+Game has started.
+I0820 15:39:54.516545 140085978715904 sc2_env.py:506] Starting episode 18: [terran] on CollectMineralShards
+I0820 15:39:57.487959 140085777389312 sc2_env.py:722] Episode 18 finished after 1920 game steps. Outcome: [1], reward: [0], score: [79]
+Game has started.
+I0820 15:39:57.509025 140085970323200 sc2_env.py:506] Starting episode 19: [terran] on CollectMineralShards
+I0820 15:40:00.556215 140086616233728 sc2_env.py:722] Episode 19 finished after 1920 game steps. Outcome: [1], reward: [1], score: [99]
+Game has started.
+I0820 15:40:00.582878 140085987108608 sc2_env.py:506] Starting episode 20: [terran] on CollectMineralShards
+I0820 15:40:03.680290 140085953537792 sc2_env.py:722] Episode 20 finished after 1920 game steps. Outcome: [1], reward: [0], score: [92]
+Game has started.
+I0820 15:40:03.706169 140085953537792 sc2_env.py:506] Starting episode 21: [terran] on CollectMineralShards
+I0820 15:40:06.754167 140085785782016 sc2_env.py:722] Episode 21 finished after 1920 game steps. Outcome: [1], reward: [1], score: [78]
+Game has started.
+I0820 15:40:06.777466 140085953537792 sc2_env.py:506] Starting episode 22: [terran] on CollectMineralShards
+I0820 15:40:09.799485 140085961930496 sc2_env.py:722] Episode 22 finished after 1920 game steps. Outcome: [1], reward: [0], score: [97]
+Game has started.
+I0820 15:40:09.826118 140085768996608 sc2_env.py:506] Starting episode 23: [terran] on CollectMineralShards
+I0820 15:40:12.913873 140085961930496 sc2_env.py:722] Episode 23 finished after 1920 game steps. Outcome: [1], reward: [1], score: [83]
+Game has started.
+I0820 15:40:12.937745 140085768996608 sc2_env.py:506] Starting episode 24: [terran] on CollectMineralShards
+I0820 15:40:15.956532 140085978715904 sc2_env.py:722] Episode 24 finished after 1920 game steps. Outcome: [1], reward: [0], score: [98]
+Game has started.
+I0820 15:40:15.980457 140085970323200 sc2_env.py:506] Starting episode 25: [terran] on CollectMineralShards
+I0820 15:40:19.068955 140085961930496 sc2_env.py:722] Episode 25 finished after 1920 game steps. Outcome: [1], reward: [0], score: [88]
+Game has started.
+I0820 15:40:19.093512 140085777389312 sc2_env.py:506] Starting episode 26: [terran] on CollectMineralShards
+I0820 15:40:22.053417 140085987108608 sc2_env.py:722] Episode 26 finished after 1920 game steps. Outcome: [1], reward: [0], score: [90]
+Game has started.
+I0820 15:40:22.081878 140085953537792 sc2_env.py:506] Starting episode 27: [terran] on CollectMineralShards
+I0820 15:40:25.088921 140085794174720 sc2_env.py:722] Episode 27 finished after 1920 game steps. Outcome: [1], reward: [0], score: [75]
+Game has started.
+I0820 15:40:25.115495 140085794174720 sc2_env.py:506] Starting episode 28: [terran] on CollectMineralShards
+I0820 15:40:28.122870 140085978715904 sc2_env.py:722] Episode 28 finished after 1920 game steps. Outcome: [1], reward: [0], score: [91]
+Game has started.
+I0820 15:40:28.148416 140085953537792 sc2_env.py:506] Starting episode 29: [terran] on CollectMineralShards
+I0820 15:40:31.119693 140085970323200 sc2_env.py:722] Episode 29 finished after 1920 game steps. Outcome: [1], reward: [0], score: [87]
+Game has started.
+I0820 15:40:31.149382 140085794174720 sc2_env.py:506] Starting episode 30: [terran] on CollectMineralShards
+I0820 15:40:34.147807 140085945145088 sc2_env.py:722] Episode 30 finished after 1920 game steps. Outcome: [1], reward: [2], score: [90]
+Game has started.
+I0820 15:40:34.178039 140085987108608 sc2_env.py:506] Starting episode 31: [terran] on CollectMineralShards
+I0820 15:40:37.161690 140085768996608 sc2_env.py:722] Episode 31 finished after 1920 game steps. Outcome: [1], reward: [0], score: [79]
+Game has started.
+I0820 15:40:37.189925 140085961930496 sc2_env.py:506] Starting episode 32: [terran] on CollectMineralShards
+I0820 15:40:40.236360 140085768996608 sc2_env.py:722] Episode 32 finished after 1920 game steps. Outcome: [1], reward: [0], score: [106]
+Game has started.
+I0820 15:40:40.263451 140085970323200 sc2_env.py:506] Starting episode 33: [terran] on CollectMineralShards
+I0820 15:40:43.209439 140085978715904 sc2_env.py:722] Episode 33 finished after 1920 game steps. Outcome: [1], reward: [0], score: [100]
+Game has started.
+I0820 15:40:43.238261 140085768996608 sc2_env.py:506] Starting episode 34: [terran] on CollectMineralShards
+I0820 15:40:46.297986 140085785782016 sc2_env.py:722] Episode 34 finished after 1920 game steps. Outcome: [1], reward: [2], score: [64]
+Game has started.
+I0820 15:40:46.324005 140085945145088 sc2_env.py:506] Starting episode 35: [terran] on CollectMineralShards
+I0820 15:40:49.352466 140085970323200 sc2_env.py:722] Episode 35 finished after 1920 game steps. Outcome: [1], reward: [1], score: [94]
+Game has started.
+I0820 15:40:49.376694 140086616233728 sc2_env.py:506] Starting episode 36: [terran] on CollectMineralShards
+I0820 15:40:52.376019 140085785782016 sc2_env.py:722] Episode 36 finished after 1920 game steps. Outcome: [1], reward: [0], score: [97]
+Game has started.
+I0820 15:40:52.401227 140085794174720 sc2_env.py:506] Starting episode 37: [terran] on CollectMineralShards
+I0820 15:40:55.422071 140085961930496 sc2_env.py:722] Episode 37 finished after 1920 game steps. Outcome: [1], reward: [1], score: [91]
+Game has started.
+I0820 15:40:55.446232 140085987108608 sc2_env.py:506] Starting episode 38: [terran] on CollectMineralShards
+I0820 15:40:58.569744 140085961930496 sc2_env.py:722] Episode 38 finished after 1920 game steps. Outcome: [1], reward: [0], score: [87]
+Game has started.
+I0820 15:40:58.594977 140085794174720 sc2_env.py:506] Starting episode 39: [terran] on CollectMineralShards
+I0820 15:41:01.607633 140086616233728 sc2_env.py:722] Episode 39 finished after 1920 game steps. Outcome: [1], reward: [1], score: [93]
+Game has started.
+I0820 15:41:01.630022 140085777389312 sc2_env.py:506] Starting episode 40: [terran] on CollectMineralShards
+I0820 15:41:04.676340 140085777389312 sc2_env.py:722] Episode 40 finished after 1920 game steps. Outcome: [1], reward: [0], score: [86]
+Game has started.
+I0820 15:41:04.702021 140085978715904 sc2_env.py:506] Starting episode 41: [terran] on CollectMineralShards
+I0820 15:41:07.683056 140085995501312 sc2_env.py:722] Episode 41 finished after 1920 game steps. Outcome: [1], reward: [0], score: [88]
+Game has started.
+I0820 15:41:07.706242 140085953537792 sc2_env.py:506] Starting episode 42: [terran] on CollectMineralShards
+I0820 15:41:10.806334 140085785782016 sc2_env.py:722] Episode 42 finished after 1920 game steps. Outcome: [1], reward: [0], score: [97]
+Game has started.
+I0820 15:41:10.829720 140085970323200 sc2_env.py:506] Starting episode 43: [terran] on CollectMineralShards
+I0820 15:41:13.865583 140085794174720 sc2_env.py:722] Episode 43 finished after 1920 game steps. Outcome: [1], reward: [0], score: [97]
+Game has started.
+I0820 15:41:13.888615 140085785782016 sc2_env.py:506] Starting episode 44: [terran] on CollectMineralShards
+I0820 15:41:16.919252 140085987108608 sc2_env.py:722] Episode 44 finished after 1920 game steps. Outcome: [1], reward: [0], score: [103]
+Game has started.
+I0820 15:41:16.940729 140085785782016 sc2_env.py:506] Starting episode 45: [terran] on CollectMineralShards
+I0820 15:41:19.932614 140085777389312 sc2_env.py:722] Episode 45 finished after 1920 game steps. Outcome: [1], reward: [0], score: [99]
+Game has started.
+I0820 15:41:19.955665 140085794174720 sc2_env.py:506] Starting episode 46: [terran] on CollectMineralShards
+I0820 15:41:22.973069 140085978715904 sc2_env.py:722] Episode 46 finished after 1920 game steps. Outcome: [1], reward: [0], score: [94]
+Game has started.
+I0820 15:41:22.997215 140085768996608 sc2_env.py:506] Starting episode 47: [terran] on CollectMineralShards
+I0820 15:41:26.049359 140085785782016 sc2_env.py:722] Episode 47 finished after 1920 game steps. Outcome: [1], reward: [2], score: [87]
+Game has started.
+I0820 15:41:26.076313 140085987108608 sc2_env.py:506] Starting episode 48: [terran] on CollectMineralShards
+I0820 15:41:29.045727 140085961930496 sc2_env.py:722] Episode 48 finished after 1920 game steps. Outcome: [1], reward: [0], score: [85]
+Game has started.
+I0820 15:41:29.068270 140085978715904 sc2_env.py:506] Starting episode 49: [terran] on CollectMineralShards
+I0820 15:41:32.083430 140085987108608 sc2_env.py:722] Episode 49 finished after 1920 game steps. Outcome: [1], reward: [1], score: [98]
+Game has started.
+I0820 15:41:32.106440 140085978715904 sc2_env.py:506] Starting episode 50: [terran] on CollectMineralShards
+I0820 15:41:35.148527 140085794174720 sc2_env.py:722] Episode 50 finished after 1920 game steps. Outcome: [1], reward: [0], score: [99]
+Game has started.
+I0820 15:41:35.171151 140085945145088 sc2_env.py:506] Starting episode 51: [terran] on CollectMineralShards
+I0820 15:41:38.204015 140085768996608 sc2_env.py:722] Episode 51 finished after 1920 game steps. Outcome: [1], reward: [0], score: [98]
+Game has started.
+I0820 15:41:38.227021 140085970323200 sc2_env.py:506] Starting episode 52: [terran] on CollectMineralShards
+I0820 15:41:41.243818 140085995501312 sc2_env.py:722] Episode 52 finished after 1920 game steps. Outcome: [1], reward: [2], score: [88]
+Game has started.
+I0820 15:41:41.268552 140085970323200 sc2_env.py:506] Starting episode 53: [terran] on CollectMineralShards
+I0820 15:41:44.283534 140085987108608 sc2_env.py:722] Episode 53 finished after 1920 game steps. Outcome: [1], reward: [0], score: [82]
+Game has started.
+I0820 15:41:44.308833 140085978715904 sc2_env.py:506] Starting episode 54: [terran] on CollectMineralShards
+I0820 15:41:47.311583 140085945145088 sc2_env.py:722] Episode 54 finished after 1920 game steps. Outcome: [1], reward: [1], score: [95]
+Game has started.
+I0820 15:41:47.338124 140085777389312 sc2_env.py:506] Starting episode 55: [terran] on CollectMineralShards
+I0820 15:41:50.419661 140085768996608 sc2_env.py:722] Episode 55 finished after 1920 game steps. Outcome: [1], reward: [1], score: [100]
+Game has started.
+I0820 15:41:50.441720 140085961930496 sc2_env.py:506] Starting episode 56: [terran] on CollectMineralShards
+I0820 15:41:53.513224 140085945145088 sc2_env.py:722] Episode 56 finished after 1920 game steps. Outcome: [1], reward: [1], score: [82]
+Game has started.
+I0820 15:41:53.538522 140085794174720 sc2_env.py:506] Starting episode 57: [terran] on CollectMineralShards
+I0820 15:41:56.585095 140085794174720 sc2_env.py:722] Episode 57 finished after 1920 game steps. Outcome: [1], reward: [0], score: [79]
+Game has started.
+I0820 15:41:56.613457 140085785782016 sc2_env.py:506] Starting episode 58: [terran] on CollectMineralShards
+I0820 15:41:59.665985 140085945145088 sc2_env.py:722] Episode 58 finished after 1920 game steps. Outcome: [1], reward: [0], score: [92]
+Game has started.
+I0820 15:41:59.690978 140085978715904 sc2_env.py:506] Starting episode 59: [terran] on CollectMineralShards
+I0820 15:42:02.759356 140085785782016 sc2_env.py:722] Episode 59 finished after 1920 game steps. Outcome: [1], reward: [0], score: [97]
+Game has started.
+I0820 15:42:02.783184 140085953537792 sc2_env.py:506] Starting episode 60: [terran] on CollectMineralShards
+I0820 15:42:05.850910 140085945145088 sc2_env.py:722] Episode 60 finished after 1920 game steps. Outcome: [1], reward: [1], score: [82]
+Game has started.
+I0820 15:42:05.878401 140085987108608 sc2_env.py:506] Starting episode 61: [terran] on CollectMineralShards
+I0820 15:42:08.970455 140085777389312 sc2_env.py:722] Episode 61 finished after 1920 game steps. Outcome: [1], reward: [1], score: [94]
+Game has started.
+I0820 15:42:08.994890 140085970323200 sc2_env.py:506] Starting episode 62: [terran] on CollectMineralShards
+I0820 15:42:12.110248 140085777389312 sc2_env.py:722] Episode 62 finished after 1920 game steps. Outcome: [1], reward: [0], score: [96]
+Game has started.
+I0820 15:42:12.135266 140085970323200 sc2_env.py:506] Starting episode 63: [terran] on CollectMineralShards
+I0820 15:42:15.226556 140085970323200 sc2_env.py:722] Episode 63 finished after 1920 game steps. Outcome: [1], reward: [0], score: [92]
+Game has started.
+I0820 15:42:15.252556 140085987108608 sc2_env.py:506] Starting episode 64: [terran] on CollectMineralShards
+I0820 15:42:18.352491 140085978715904 sc2_env.py:722] Episode 64 finished after 1920 game steps. Outcome: [1], reward: [1], score: [93]
+Game has started.
+I0820 15:42:18.382223 140086616233728 sc2_env.py:506] Starting episode 65: [terran] on CollectMineralShards
+I0820 15:42:21.447377 140085768996608 sc2_env.py:722] Episode 65 finished after 1920 game steps. Outcome: [1], reward: [0], score: [94]
+Game has started.
+I0820 15:42:21.470093 140085945145088 sc2_env.py:506] Starting episode 66: [terran] on CollectMineralShards
+I0820 15:42:24.495383 140085953537792 sc2_env.py:722] Episode 66 finished after 1920 game steps. Outcome: [1], reward: [2], score: [91]
+Game has started.
+I0820 15:42:24.519752 140085961930496 sc2_env.py:506] Starting episode 67: [terran] on CollectMineralShards
+I0820 15:42:27.630191 140085995501312 sc2_env.py:722] Episode 67 finished after 1920 game steps. Outcome: [1], reward: [0], score: [99]
+Game has started.
+I0820 15:42:27.655444 140085768996608 sc2_env.py:506] Starting episode 68: [terran] on CollectMineralShards
+I0820 15:42:30.707772 140085777389312 sc2_env.py:722] Episode 68 finished after 1920 game steps. Outcome: [1], reward: [0], score: [84]
+Game has started.
+I0820 15:42:30.732830 140085768996608 sc2_env.py:506] Starting episode 69: [terran] on CollectMineralShards
+I0820 15:42:33.837871 140085953537792 sc2_env.py:722] Episode 69 finished after 1920 game steps. Outcome: [1], reward: [0], score: [115]
+Game has started.
+I0820 15:42:33.865591 140085768996608 sc2_env.py:506] Starting episode 70: [terran] on CollectMineralShards
+I0820 15:42:36.899544 140085970323200 sc2_env.py:722] Episode 70 finished after 1920 game steps. Outcome: [1], reward: [0], score: [88]
+Game has started.
+I0820 15:42:36.926423 140085785782016 sc2_env.py:506] Starting episode 71: [terran] on CollectMineralShards
+I0820 15:42:39.892957 140085987108608 sc2_env.py:722] Episode 71 finished after 1920 game steps. Outcome: [1], reward: [0], score: [77]
+Game has started.
+I0820 15:42:39.918285 140085961930496 sc2_env.py:506] Starting episode 72: [terran] on CollectMineralShards
+I0820 15:42:42.945159 140085945145088 sc2_env.py:722] Episode 72 finished after 1920 game steps. Outcome: [1], reward: [0], score: [87]
+Game has started.
+I0820 15:42:42.969808 140085785782016 sc2_env.py:506] Starting episode 73: [terran] on CollectMineralShards
+I0820 15:42:46.005261 140085777389312 sc2_env.py:722] Episode 73 finished after 1920 game steps. Outcome: [1], reward: [0], score: [82]
+Game has started.
+I0820 15:42:46.028430 140085953537792 sc2_env.py:506] Starting episode 74: [terran] on CollectMineralShards
+I0820 15:42:49.092636 140085961930496 sc2_env.py:722] Episode 74 finished after 1920 game steps. Outcome: [1], reward: [0], score: [92]
+Game has started.
+I0820 15:42:49.117207 140085953537792 sc2_env.py:506] Starting episode 75: [terran] on CollectMineralShards
+I0820 15:42:52.172373 140085953537792 sc2_env.py:722] Episode 75 finished after 1920 game steps. Outcome: [1], reward: [0], score: [95]
+Game has started.
+I0820 15:42:52.201037 140085945145088 sc2_env.py:506] Starting episode 76: [terran] on CollectMineralShards
+I0820 15:42:55.200377 140085995501312 sc2_env.py:722] Episode 76 finished after 1920 game steps. Outcome: [1], reward: [0], score: [95]
+Game has started.
+I0820 15:42:55.226117 140085970323200 sc2_env.py:506] Starting episode 77: [terran] on CollectMineralShards
+I0820 15:42:58.266324 140085961930496 sc2_env.py:722] Episode 77 finished after 1920 game steps. Outcome: [1], reward: [0], score: [99]
+Game has started.
+I0820 15:42:58.290944 140085794174720 sc2_env.py:506] Starting episode 78: [terran] on CollectMineralShards
+I0820 15:43:01.324941 140085794174720 sc2_env.py:722] Episode 78 finished after 1920 game steps. Outcome: [1], reward: [1], score: [87]
+Game has started.
+I0820 15:43:01.350961 140085987108608 sc2_env.py:506] Starting episode 79: [terran] on CollectMineralShards
+I0820 15:43:04.436468 140085961930496 sc2_env.py:722] Episode 79 finished after 1920 game steps. Outcome: [1], reward: [0], score: [95]
+Game has started.
+I0820 15:43:04.465097 140085945145088 sc2_env.py:506] Starting episode 80: [terran] on CollectMineralShards
+I0820 15:43:07.470110 140085978715904 sc2_env.py:722] Episode 80 finished after 1920 game steps. Outcome: [1], reward: [0], score: [93]
+Game has started.
+I0820 15:43:07.493517 140085953537792 sc2_env.py:506] Starting episode 81: [terran] on CollectMineralShards
+I0820 15:43:10.501195 140085794174720 sc2_env.py:722] Episode 81 finished after 1920 game steps. Outcome: [1], reward: [0], score: [96]
+Game has started.
+I0820 15:43:10.528634 140085978715904 sc2_env.py:506] Starting episode 82: [terran] on CollectMineralShards
+I0820 15:43:13.575131 140085768996608 sc2_env.py:722] Episode 82 finished after 1920 game steps. Outcome: [1], reward: [0], score: [92]
+Game has started.
+I0820 15:43:13.602190 140085785782016 sc2_env.py:506] Starting episode 83: [terran] on CollectMineralShards
+I0820 15:43:16.580485 140085978715904 sc2_env.py:722] Episode 83 finished after 1920 game steps. Outcome: [1], reward: [0], score: [92]
+Game has started.
+I0820 15:43:16.609184 140085987108608 sc2_env.py:506] Starting episode 84: [terran] on CollectMineralShards
+I0820 15:43:19.669877 140085794174720 sc2_env.py:722] Episode 84 finished after 1920 game steps. Outcome: [1], reward: [1], score: [94]
+Game has started.
+I0820 15:43:19.698255 140085768996608 sc2_env.py:506] Starting episode 85: [terran] on CollectMineralShards
+I0820 15:43:22.694755 140085978715904 sc2_env.py:722] Episode 85 finished after 1920 game steps. Outcome: [1], reward: [0], score: [99]
+Game has started.
+I0820 15:43:22.719718 140085777389312 sc2_env.py:506] Starting episode 86: [terran] on CollectMineralShards
+I0820 15:43:25.781296 140085777389312 sc2_env.py:722] Episode 86 finished after 1920 game steps. Outcome: [1], reward: [0], score: [110]
+Game has started.
+I0820 15:43:25.803467 140085785782016 sc2_env.py:506] Starting episode 87: [terran] on CollectMineralShards
+I0820 15:43:28.860100 140085945145088 sc2_env.py:722] Episode 87 finished after 1920 game steps. Outcome: [1], reward: [0], score: [99]
+Game has started.
+I0820 15:43:28.882979 140085953537792 sc2_env.py:506] Starting episode 88: [terran] on CollectMineralShards
+I0820 15:43:31.944821 140085768996608 sc2_env.py:722] Episode 88 finished after 1920 game steps. Outcome: [1], reward: [0], score: [88]
+Game has started.
+I0820 15:43:31.968272 140086616233728 sc2_env.py:506] Starting episode 89: [terran] on CollectMineralShards
+I0820 15:43:34.984949 140085987108608 sc2_env.py:722] Episode 89 finished after 1920 game steps. Outcome: [1], reward: [2], score: [95]
+Game has started.
+I0820 15:43:35.008956 140085768996608 sc2_env.py:506] Starting episode 90: [terran] on CollectMineralShards
+I0820 15:43:38.063840 140085961930496 sc2_env.py:722] Episode 90 finished after 1920 game steps. Outcome: [1], reward: [0], score: [89]
+Game has started.
+I0820 15:43:38.086135 140085987108608 sc2_env.py:506] Starting episode 91: [terran] on CollectMineralShards
+I0820 15:43:41.169001 140085768996608 sc2_env.py:722] Episode 91 finished after 1920 game steps. Outcome: [1], reward: [0], score: [96]
+Game has started.
+I0820 15:43:41.191412 140085987108608 sc2_env.py:506] Starting episode 92: [terran] on CollectMineralShards
+I0820 15:43:44.264395 140085945145088 sc2_env.py:722] Episode 92 finished after 1920 game steps. Outcome: [1], reward: [1], score: [100]
+Game has started.
+I0820 15:43:44.294720 140085970323200 sc2_env.py:506] Starting episode 93: [terran] on CollectMineralShards
+I0820 15:43:47.342990 140085978715904 sc2_env.py:722] Episode 93 finished after 1920 game steps. Outcome: [1], reward: [0], score: [93]
+Game has started.
+I0820 15:43:47.370134 140085970323200 sc2_env.py:506] Starting episode 94: [terran] on CollectMineralShards
+I0820 15:43:50.351065 140085987108608 sc2_env.py:722] Episode 94 finished after 1920 game steps. Outcome: [1], reward: [0], score: [95]
+Game has started.
+I0820 15:43:50.376359 140085794174720 sc2_env.py:506] Starting episode 95: [terran] on CollectMineralShards
+I0820 15:43:53.349818 140085953537792 sc2_env.py:722] Episode 95 finished after 1920 game steps. Outcome: [1], reward: [1], score: [86]
+Game has started.
+I0820 15:43:53.374811 140085961930496 sc2_env.py:506] Starting episode 96: [terran] on CollectMineralShards
+I0820 15:43:56.357202 140085978715904 sc2_env.py:722] Episode 96 finished after 1920 game steps. Outcome: [1], reward: [0], score: [86]
+Game has started.
+I0820 15:43:56.383751 140085785782016 sc2_env.py:506] Starting episode 97: [terran] on CollectMineralShards
+I0820 15:43:59.376262 140085970323200 sc2_env.py:722] Episode 97 finished after 1920 game steps. Outcome: [1], reward: [0], score: [98]
+Game has started.
+I0820 15:43:59.399521 140085768996608 sc2_env.py:506] Starting episode 98: [terran] on CollectMineralShards
+I0820 15:44:02.376150 140085785782016 sc2_env.py:722] Episode 98 finished after 1920 game steps. Outcome: [1], reward: [2], score: [85]
+Game has started.
+I0820 15:44:02.403497 140085961930496 sc2_env.py:506] Starting episode 99: [terran] on CollectMineralShards
+I0820 15:44:05.380481 140085987108608 sc2_env.py:722] Episode 99 finished after 1920 game steps. Outcome: [1], reward: [1], score: [96]
+Game has started.
+I0820 15:44:05.404548 140085970323200 sc2_env.py:506] Starting episode 100: [terran] on CollectMineralShards
+I0820 15:44:08.430591 140085768996608 sc2_env.py:722] Episode 100 finished after 1920 game steps. Outcome: [1], reward: [0], score: [99]
+Game has started.
+I0820 15:44:08.458380 140085995501312 sc2_env.py:506] Starting episode 101: [terran] on CollectMineralShards
+I0820 15:44:11.474226 140085978715904 sc2_env.py:722] Episode 101 finished after 1920 game steps. Outcome: [1], reward: [1], score: [101]
+Game has started.
+I0820 15:44:11.497527 140086616233728 sc2_env.py:506] Starting episode 102: [terran] on CollectMineralShards
+I0820 15:44:11.874645 140089949108032 ppo_eval.py:84] 
+AverageReturn: 91.15
+AverageEpisodeLength: 240.0
+MaxReturn: 115.0
+MinReturn: 64.0
+ReturnStd: 8.063963
+ChosenActionIDHistogram: [3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 1 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 1 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 2 2 2 3 3 3 3
+ 3 3 3 3 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 1 3
+ 3 3 3 3 3 3 3 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 1 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 1 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 3 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 1 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 3 3 3 3 3 3 3 1 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3 3 3 3 3 2 3 3 3 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+ 3]
+I0820 15:44:11.874881 140089949108032 parallel_py_environment.py:165] Closing all processes.
+I0820 15:44:11.914489 140089949108032 parallel_py_environment.py:168] All processes closed.
+I0820 15:44:11.915116 140085760603904 sc2_env.py:752] Environment Close
+RequestQuit command received.
+Closing Application...
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:54274 disconnected
+I0820 15:44:12.016421 140085760603904 sc_process.py:232] Shutdown gracefully.
+I0820 15:44:12.016680 140085760603904 sc_process.py:210] Shutdown with return code: -15

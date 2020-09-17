@@ -1,0 +1,8 @@
+DESCRIPTION:
+map_name: CollectMineralShards;
+num_parallel_envs: 4;
+num_environment_steps: 10000000;
+num_collect_episodes: 20;
+replay_buffer_max_length: 4000;
+use_lstms: False;
+misc_info: final test

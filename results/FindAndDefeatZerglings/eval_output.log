@@ -1,0 +1,450 @@
+USED CHECKPOINT: best/ckpt-2970
+
+2020-08-23 15:18:47.469295: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcudart.so.10.1'; dlerror: libcudart.so.10.1: cannot open shared object file: No such file or directory
+2020-08-23 15:18:47.469364: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+I0823 15:18:49.325067 139839547266880 parallel_py_environment.py:102] Spawning all processes.
+2020-08-23 15:18:49.350384: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-08-23 15:18:49.350605: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-23 15:18:49.350696: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc00): /proc/driver/nvidia/version does not exist
+2020-08-23 15:18:49.351530: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN)to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+I0823 15:18:49.355347 139839547266880 parallel_py_environment.py:106] Waiting for all processes to start.
+2020-08-23 15:18:49.361325: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-08-23 15:18:49.361404: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-23 15:18:49.361455: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc00): /proc/driver/nvidia/version does not exist
+2020-08-23 15:18:49.362155: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN)to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-23 15:18:49.367609: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-08-23 15:18:49.367695: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-23 15:18:49.367745: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc00): /proc/driver/nvidia/version does not exist
+2020-08-23 15:18:49.368456: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN)to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-23 15:18:49.374806: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2194840000 Hz
+2020-08-23 15:18:49.375166: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x52cd880 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-23 15:18:49.375225: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-08-23 15:18:49.378436: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-08-23 15:18:49.378509: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-23 15:18:49.378553: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc00): /proc/driver/nvidia/version does not exist
+2020-08-23 15:18:49.379296: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN)to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-23 15:18:49.385294: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2194840000 Hz
+2020-08-23 15:18:49.385658: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x52cd880 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-23 15:18:49.385693: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-08-23 15:18:49.391369: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2194840000 Hz
+2020-08-23 15:18:49.391741: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x52cd880 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-23 15:18:49.391778: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-08-23 15:18:49.396288: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2194840000 Hz
+2020-08-23 15:18:49.396645: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x52cd880 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-23 15:18:49.396683: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+I0823 15:18:49.436123 139839547266880 parallel_py_environment.py:109] All processes started.
+2020-08-23 15:18:49.453147: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-08-23 15:18:49.453199: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-23 15:18:49.453225: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc00): /proc/driver/nvidia/version does not exist
+2020-08-23 15:18:49.453616: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN)to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-23 15:18:49.461104: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2194840000 Hz
+2020-08-23 15:18:49.461361: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x52cd880 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-23 15:18:49.461387: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+I0823 15:18:49.470340 139839547266880 sc_process.py:135] Launching SC2: /home/ricechrispi/StarCraftII/Versions/Base75689/SC2_x64 -listen 127.0.0.1 -port 17008 -dataDir /home/ricechrispi/StarCraftII/ -tempDir /tmp/sc-3snzc34e/
+I0823 15:18:49.478188 139839547266880 remote_controller.py:166] Connecting to: ws://127.0.0.1:17008/sc2api, attempt: 0, running: True
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/ricechrispi/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 17008 -dataDir /home/ricechrispi/StarCraftII/ -tempDir /tmp/sc-3snzc34e/'
+Starting up...
+Startup Phase 1 complete
+I0823 15:18:50.479444 139839547266880 remote_controller.py:166] Connecting to: ws://127.0.0.1:17008/sc2api, attempt: 1, running: True
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:17008
+Startup Phase 3 complete. Ready for commands.
+I0823 15:18:51.481678 139839547266880 remote_controller.py:166] Connecting to: ws://127.0.0.1:17008/sc2api, attempt: 2, running: True
+ConnectHandler: Request from 127.0.0.1:36626 accepted
+ReadyHandler: 127.0.0.1:36626 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface enabled
+Configure: score interface enabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Using default stable ids, none found at: /home/ricechrispi/StarCraftII/stableid.json
+Successfully loaded stable ids: GameData\stableid.json
+Sending ResponseJoinGame
+I0823 15:18:56.788344 139839547266880 sc2_env.py:314] Environment is ready
+/home/ricechrispi/PycharmProjects/bac_project/venv/lib/python3.8/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+I0823 15:18:56.806541 139839547266880 sc2_env.py:506] Starting episode 1: [terran, zerg] on FindAndDefeatZerglings
+W0823 15:18:57.181803 139839547266880 my_ppo_agent.py:307] Only tf.keras.optimizers.Optimiers are well supported, got a non-TF2 optimizer: <tensorflow.python.training.adam.AdamOptimizer object at 0x7f2e8877ecd0>
+I0823 15:18:57.198322 139839547266880 common.py:977] Checkpoint available: ./results/FindAndDefeatZerglings/checkpoints/collect_policy/ckpt-2970
+I0823 15:18:57.533105 139839547266880 common.py:977] Checkpoint available: ./results/FindAndDefeatZerglings/checkpoints/policy/ckpt-2970
+Game has started.
+I0823 15:18:57.904613 139839547266880 sc2_env.py:506] Starting episode 2: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:19:04.680995 139837860460288 sc2_env.py:722] Episode 2 finished after 2880 game steps. Outcome: [1], reward: [0], score: [37]
+Game has started.
+I0823 15:19:04.700406 139837424269056 sc2_env.py:506] Starting episode 3: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:19:08.724101 139837860460288 sc2_env.py:722] Episode 3 finished after 2880 game steps. Outcome: [1], reward: [0], score: [51]
+Game has started.
+I0823 15:19:08.746894 139837424269056 sc2_env.py:506] Starting episode 4: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:19:12.832240 139837860460288 sc2_env.py:722] Episode 4 finished after 2880 game steps. Outcome: [1], reward: [0], score: [46]
+Game has started.
+I0823 15:19:12.855944 139837860460288 sc2_env.py:506] Starting episode 5: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:19:17.085697 139837424269056 sc2_env.py:722] Episode 5 finished after 2880 game steps. Outcome: [1], reward: [0], score: [39]
+Game has started.
+I0823 15:19:17.109842 139837424269056 sc2_env.py:506] Starting episode 6: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:19:21.163418 139837852067584 sc2_env.py:722] Episode 6 finished after 2880 game steps. Outcome: [1], reward: [0], score: [39]
+Game has started.
+I0823 15:19:21.185699 139837852067584 sc2_env.py:506] Starting episode 7: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:19:25.458498 139837424269056 sc2_env.py:722] Episode 7 finished after 2880 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0823 15:19:25.484321 139837852067584 sc2_env.py:506] Starting episode 8: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:19:29.411645 139837860460288 sc2_env.py:722] Episode 8 finished after 2880 game steps. Outcome: [1], reward: [0], score: [40]
+Game has started.
+I0823 15:19:29.434078 139837860460288 sc2_env.py:506] Starting episode 9: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:19:33.627855 139837424269056 sc2_env.py:722] Episode 9 finished after 2880 game steps. Outcome: [1], reward: [1], score: [44]
+Game has started.
+I0823 15:19:33.650667 139837852067584 sc2_env.py:506] Starting episode 10: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:19:37.652413 139837860460288 sc2_env.py:722] Episode 10 finished after 2880 game steps. Outcome: [1], reward: [0], score: [41]
+Game has started.
+I0823 15:19:37.674420 139837843674880 sc2_env.py:506] Starting episode 11: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:19:41.668254 139837843674880 sc2_env.py:722] Episode 11 finished after 2880 game steps. Outcome: [1], reward: [0], score: [47]
+Game has started.
+I0823 15:19:41.690148 139837843674880 sc2_env.py:506] Starting episode 12: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:19:45.746560 139837860460288 sc2_env.py:722] Episode 12 finished after 2880 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0823 15:19:45.770500 139837843674880 sc2_env.py:506] Starting episode 13: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:19:49.726537 139837424269056 sc2_env.py:722] Episode 13 finished after 2880 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0823 15:19:49.747996 139837852067584 sc2_env.py:506] Starting episode 14: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:19:53.744016 139837843674880 sc2_env.py:722] Episode 14 finished after 2880 game steps. Outcome: [1], reward: [0], score: [44]
+Game has started.
+I0823 15:19:53.763967 139837843674880 sc2_env.py:506] Starting episode 15: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:19:57.631522 139837852067584 sc2_env.py:722] Episode 15 finished after 2880 game steps. Outcome: [1], reward: [0], score: [36]
+Game has started.
+I0823 15:19:57.654952 139837843674880 sc2_env.py:506] Starting episode 16: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:20:01.591293 139837424269056 sc2_env.py:722] Episode 16 finished after 2880 game steps. Outcome: [1], reward: [0], score: [38]
+Game has started.
+I0823 15:20:01.614552 139837843674880 sc2_env.py:506] Starting episode 17: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:20:05.613987 139837424269056 sc2_env.py:722] Episode 17 finished after 2880 game steps. Outcome: [1], reward: [0], score: [44]
+Game has started.
+I0823 15:20:05.633502 139837852067584 sc2_env.py:506] Starting episode 18: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:20:09.679994 139837852067584 sc2_env.py:722] Episode 18 finished after 2880 game steps. Outcome: [1], reward: [0], score: [45]
+Game has started.
+I0823 15:20:09.699604 139837843674880 sc2_env.py:506] Starting episode 19: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:20:13.708875 139837852067584 sc2_env.py:722] Episode 19 finished after 2880 game steps. Outcome: [1], reward: [0], score: [36]
+Game has started.
+I0823 15:20:13.730026 139837843674880 sc2_env.py:506] Starting episode 20: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:20:17.685662 139837843674880 sc2_env.py:722] Episode 20 finished after 2880 game steps. Outcome: [1], reward: [0], score: [39]
+Game has started.
+I0823 15:20:17.709527 139837424269056 sc2_env.py:506] Starting episode 21: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:20:21.620115 139837860460288 sc2_env.py:722] Episode 21 finished after 2880 game steps. Outcome: [1], reward: [0], score: [40]
+Game has started.
+I0823 15:20:21.641492 139837852067584 sc2_env.py:506] Starting episode 22: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:20:25.570212 139837843674880 sc2_env.py:722] Episode 22 finished after 2880 game steps. Outcome: [1], reward: [1], score: [39]
+Game has started.
+I0823 15:20:25.592398 139837860460288 sc2_env.py:506] Starting episode 23: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:20:29.473162 139837424269056 sc2_env.py:722] Episode 23 finished after 2880 game steps. Outcome: [1], reward: [0], score: [31]
+Game has started.
+I0823 15:20:29.496760 139837860460288 sc2_env.py:506] Starting episode 24: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:20:33.524237 139837424269056 sc2_env.py:722] Episode 24 finished after 2880 game steps. Outcome: [1], reward: [0], score: [45]
+Game has started.
+I0823 15:20:33.548344 139837424269056 sc2_env.py:506] Starting episode 25: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:20:37.424092 139837860460288 sc2_env.py:722] Episode 25 finished after 2880 game steps. Outcome: [1], reward: [0], score: [37]
+Game has started.
+I0823 15:20:37.442958 139837424269056 sc2_env.py:506] Starting episode 26: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:20:41.471061 139837852067584 sc2_env.py:722] Episode 26 finished after 2880 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0823 15:20:41.497310 139837424269056 sc2_env.py:506] Starting episode 27: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:20:45.562103 139837424269056 sc2_env.py:722] Episode 27 finished after 2880 game steps. Outcome: [1], reward: [0], score: [45]
+Game has started.
+I0823 15:20:45.585755 139837860460288 sc2_env.py:506] Starting episode 28: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:20:49.611569 139837424269056 sc2_env.py:722] Episode 28 finished after 2880 game steps. Outcome: [1], reward: [0], score: [44]
+Game has started.
+I0823 15:20:49.636558 139837424269056 sc2_env.py:506] Starting episode 29: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:20:53.658692 139837852067584 sc2_env.py:722] Episode 29 finished after 2880 game steps. Outcome: [1], reward: [0], score: [45]
+Game has started.
+I0823 15:20:53.679510 139837852067584 sc2_env.py:506] Starting episode 30: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:20:57.695433 139837843674880 sc2_env.py:722] Episode 30 finished after 2880 game steps. Outcome: [1], reward: [0], score: [44]
+Game has started.
+I0823 15:20:57.717495 139837424269056 sc2_env.py:506] Starting episode 31: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:21:01.683639 139837860460288 sc2_env.py:722] Episode 31 finished after 2880 game steps. Outcome: [1], reward: [0], score: [44]
+Game has started.
+I0823 15:21:01.703196 139837424269056 sc2_env.py:506] Starting episode 32: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:21:05.704472 139837860460288 sc2_env.py:722] Episode 32 finished after 2880 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0823 15:21:05.729282 139837852067584 sc2_env.py:506] Starting episode 33: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:21:09.699037 139837424269056 sc2_env.py:722] Episode 33 finished after 2880 game steps. Outcome: [1], reward: [0], score: [42]
+Game has started.
+I0823 15:21:09.719692 139837852067584 sc2_env.py:506] Starting episode 34: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:21:13.565074 139837843674880 sc2_env.py:722] Episode 34 finished after 2880 game steps. Outcome: [1], reward: [0], score: [39]
+Game has started.
+I0823 15:21:13.587625 139837852067584 sc2_env.py:506] Starting episode 35: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:21:17.525066 139837843674880 sc2_env.py:722] Episode 35 finished after 2880 game steps. Outcome: [1], reward: [0], score: [38]
+Game has started.
+I0823 15:21:17.547152 139837860460288 sc2_env.py:506] Starting episode 36: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:21:21.556364 139837852067584 sc2_env.py:722] Episode 36 finished after 2880 game steps. Outcome: [1], reward: [0], score: [45]
+Game has started.
+I0823 15:21:21.578821 139837843674880 sc2_env.py:506] Starting episode 37: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:21:25.581740 139837843674880 sc2_env.py:722] Episode 37 finished after 2880 game steps. Outcome: [1], reward: [0], score: [40]
+Game has started.
+I0823 15:21:25.604405 139837852067584 sc2_env.py:506] Starting episode 38: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:21:29.610877 139837424269056 sc2_env.py:722] Episode 38 finished after 2880 game steps. Outcome: [1], reward: [0], score: [42]
+Game has started.
+I0823 15:21:29.633140 139837843674880 sc2_env.py:506] Starting episode 39: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:21:33.500684 139837852067584 sc2_env.py:722] Episode 39 finished after 2880 game steps. Outcome: [1], reward: [0], score: [32]
+Game has started.
+I0823 15:21:33.525331 139837424269056 sc2_env.py:506] Starting episode 40: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:21:37.519371 139837860460288 sc2_env.py:722] Episode 40 finished after 2880 game steps. Outcome: [1], reward: [0], score: [41]
+Game has started.
+I0823 15:21:37.541707 139837852067584 sc2_env.py:506] Starting episode 41: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:21:41.514513 139837843674880 sc2_env.py:722] Episode 41 finished after 2880 game steps. Outcome: [1], reward: [0], score: [42]
+Game has started.
+I0823 15:21:41.536213 139837860460288 sc2_env.py:506] Starting episode 42: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:21:45.466328 139837843674880 sc2_env.py:722] Episode 42 finished after 2880 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0823 15:21:45.488034 139837843674880 sc2_env.py:506] Starting episode 43: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:21:49.449712 139837424269056 sc2_env.py:722] Episode 43 finished after 2880 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0823 15:21:49.471357 139837852067584 sc2_env.py:506] Starting episode 44: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:21:53.424523 139837843674880 sc2_env.py:722] Episode 44 finished after 2880 game steps. Outcome: [1], reward: [1], score: [46]
+Game has started.
+I0823 15:21:53.446465 139837843674880 sc2_env.py:506] Starting episode 45: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:21:57.433212 139837860460288 sc2_env.py:722] Episode 45 finished after 2880 game steps. Outcome: [1], reward: [0], score: [38]
+Game has started.
+I0823 15:21:57.457667 139837852067584 sc2_env.py:506] Starting episode 46: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:22:01.500826 139837843674880 sc2_env.py:722] Episode 46 finished after 2880 game steps. Outcome: [1], reward: [0], score: [45]
+Game has started.
+I0823 15:22:01.522203 139837860460288 sc2_env.py:506] Starting episode 47: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:22:05.402295 139837860460288 sc2_env.py:722] Episode 47 finished after 2880 game steps. Outcome: [1], reward: [1], score: [41]
+Game has started.
+I0823 15:22:05.424005 139837843674880 sc2_env.py:506] Starting episode 48: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:22:09.475161 139837852067584 sc2_env.py:722] Episode 48 finished after 2880 game steps. Outcome: [1], reward: [0], score: [46]
+Game has started.
+I0823 15:22:09.497798 139837843674880 sc2_env.py:506] Starting episode 49: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:22:13.450836 139837843674880 sc2_env.py:722] Episode 49 finished after 2880 game steps. Outcome: [1], reward: [0], score: [44]
+Game has started.
+I0823 15:22:13.474493 139837852067584 sc2_env.py:506] Starting episode 50: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:22:17.366726 139837424269056 sc2_env.py:722] Episode 50 finished after 2880 game steps. Outcome: [1], reward: [0], score: [41]
+Game has started.
+I0823 15:22:17.385739 139837424269056 sc2_env.py:506] Starting episode 51: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:22:21.369334 139837852067584 sc2_env.py:722] Episode 51 finished after 2880 game steps. Outcome: [1], reward: [0], score: [42]
+Game has started.
+I0823 15:22:21.392937 139837860460288 sc2_env.py:506] Starting episode 52: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:22:25.405875 139837843674880 sc2_env.py:722] Episode 52 finished after 2880 game steps. Outcome: [1], reward: [1], score: [47]
+Game has started.
+I0823 15:22:25.431617 139837424269056 sc2_env.py:506] Starting episode 53: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:22:29.167308 139837843674880 sc2_env.py:722] Episode 53 finished after 2880 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0823 15:22:29.190257 139837843674880 sc2_env.py:506] Starting episode 54: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:22:33.048281 139837860460288 sc2_env.py:722] Episode 54 finished after 2808 game steps. Outcome: [-1], reward: [-1], score: [41]
+Game has started.
+I0823 15:22:33.072739 139837843674880 sc2_env.py:506] Starting episode 55: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:22:36.965312 139837424269056 sc2_env.py:722] Episode 55 finished after 2880 game steps. Outcome: [1], reward: [1], score: [38]
+Game has started.
+I0823 15:22:36.985512 139837843674880 sc2_env.py:506] Starting episode 56: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:22:40.963336 139837860460288 sc2_env.py:722] Episode 56 finished after 2880 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0823 15:22:40.982771 139837424269056 sc2_env.py:506] Starting episode 57: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:22:44.986622 139837843674880 sc2_env.py:722] Episode 57 finished after 2880 game steps. Outcome: [1], reward: [1], score: [46]
+Game has started.
+I0823 15:22:45.011081 139837424269056 sc2_env.py:506] Starting episode 58: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:22:49.008773 139837424269056 sc2_env.py:722] Episode 58 finished after 2880 game steps. Outcome: [1], reward: [0], score: [41]
+Game has started.
+I0823 15:22:49.033958 139837860460288 sc2_env.py:506] Starting episode 59: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:22:53.007591 139837852067584 sc2_env.py:722] Episode 59 finished after 2880 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0823 15:22:53.029855 139837860460288 sc2_env.py:506] Starting episode 60: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:22:56.972065 139837860460288 sc2_env.py:722] Episode 60 finished after 2880 game steps. Outcome: [1], reward: [0], score: [44]
+Game has started.
+I0823 15:22:56.993608 139837852067584 sc2_env.py:506] Starting episode 61: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:23:00.672264 139837843674880 sc2_env.py:722] Episode 61 finished after 2880 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0823 15:23:00.694216 139837424269056 sc2_env.py:506] Starting episode 62: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:23:04.673241 139837424269056 sc2_env.py:722] Episode 62 finished after 2880 game steps. Outcome: [1], reward: [0], score: [41]
+Game has started.
+I0823 15:23:04.694572 139837424269056 sc2_env.py:506] Starting episode 63: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:23:08.691976 139837843674880 sc2_env.py:722] Episode 63 finished after 2880 game steps. Outcome: [1], reward: [0], score: [44]
+Game has started.
+I0823 15:23:08.716879 139837424269056 sc2_env.py:506] Starting episode 64: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:23:12.674046 139837852067584 sc2_env.py:722] Episode 64 finished after 2880 game steps. Outcome: [1], reward: [0], score: [36]
+Game has started.
+I0823 15:23:12.697042 139837843674880 sc2_env.py:506] Starting episode 65: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:23:16.584241 139837852067584 sc2_env.py:722] Episode 65 finished after 2880 game steps. Outcome: [1], reward: [0], score: [38]
+Game has started.
+I0823 15:23:16.605165 139837860460288 sc2_env.py:506] Starting episode 66: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:23:20.649167 139837852067584 sc2_env.py:722] Episode 66 finished after 2880 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0823 15:23:20.669085 139837843674880 sc2_env.py:506] Starting episode 67: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:23:24.682458 139837860460288 sc2_env.py:722] Episode 67 finished after 2880 game steps. Outcome: [1], reward: [0], score: [42]
+Game has started.
+I0823 15:23:24.703811 139837860460288 sc2_env.py:506] Starting episode 68: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:23:28.707413 139837860460288 sc2_env.py:722] Episode 68 finished after 2880 game steps. Outcome: [1], reward: [0], score: [44]
+Game has started.
+I0823 15:23:28.726127 139837860460288 sc2_env.py:506] Starting episode 69: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:23:32.470734 139837843674880 sc2_env.py:722] Episode 69 finished after 2728 game steps. Outcome: [-1], reward: [-1], score: [35]
+Game has started.
+I0823 15:23:32.493452 139837843674880 sc2_env.py:506] Starting episode 70: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:23:36.469024 139837843674880 sc2_env.py:722] Episode 70 finished after 2880 game steps. Outcome: [1], reward: [0], score: [41]
+Game has started.
+I0823 15:23:36.487947 139837424269056 sc2_env.py:506] Starting episode 71: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:23:40.502817 139837852067584 sc2_env.py:722] Episode 71 finished after 2880 game steps. Outcome: [1], reward: [0], score: [44]
+Game has started.
+I0823 15:23:40.525228 139837852067584 sc2_env.py:506] Starting episode 72: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:23:44.546019 139837852067584 sc2_env.py:722] Episode 72 finished after 2880 game steps. Outcome: [1], reward: [0], score: [42]
+Game has started.
+I0823 15:23:44.569641 139837424269056 sc2_env.py:506] Starting episode 73: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:23:48.629412 139837860460288 sc2_env.py:722] Episode 73 finished after 2880 game steps. Outcome: [1], reward: [0], score: [53]
+Game has started.
+I0823 15:23:48.651246 139837424269056 sc2_env.py:506] Starting episode 74: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:23:52.227578 139837860460288 sc2_env.py:722] Episode 74 finished after 2624 game steps. Outcome: [-1], reward: [-1], score: [32]
+Game has started.
+I0823 15:23:52.249726 139837860460288 sc2_env.py:506] Starting episode 75: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:23:56.217659 139837860460288 sc2_env.py:722] Episode 75 finished after 2880 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0823 15:23:56.242249 139837852067584 sc2_env.py:506] Starting episode 76: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:24:00.239284 139837843674880 sc2_env.py:722] Episode 76 finished after 2880 game steps. Outcome: [1], reward: [0], score: [44]
+Game has started.
+I0823 15:24:00.262845 139837843674880 sc2_env.py:506] Starting episode 77: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:24:04.187866 139837852067584 sc2_env.py:722] Episode 77 finished after 2880 game steps. Outcome: [1], reward: [0], score: [32]
+Game has started.
+I0823 15:24:04.210314 139837860460288 sc2_env.py:506] Starting episode 78: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:24:08.043355 139837843674880 sc2_env.py:722] Episode 78 finished after 2880 game steps. Outcome: [1], reward: [1], score: [32]
+Game has started.
+I0823 15:24:08.065176 139837860460288 sc2_env.py:506] Starting episode 79: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:24:11.866945 139837860460288 sc2_env.py:722] Episode 79 finished after 2880 game steps. Outcome: [1], reward: [0], score: [33]
+Game has started.
+I0823 15:24:11.889271 139837424269056 sc2_env.py:506] Starting episode 80: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:24:15.791867 139837843674880 sc2_env.py:722] Episode 80 finished after 2880 game steps. Outcome: [1], reward: [0], score: [39]
+Game has started.
+I0823 15:24:15.811363 139837852067584 sc2_env.py:506] Starting episode 81: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:24:19.811063 139837424269056 sc2_env.py:722] Episode 81 finished after 2880 game steps. Outcome: [1], reward: [0], score: [44]
+Game has started.
+I0823 15:24:19.831172 139837860460288 sc2_env.py:506] Starting episode 82: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:24:23.838098 139837424269056 sc2_env.py:722] Episode 82 finished after 2880 game steps. Outcome: [1], reward: [0], score: [45]
+Game has started.
+I0823 15:24:23.862393 139837852067584 sc2_env.py:506] Starting episode 83: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:24:27.782179 139837424269056 sc2_env.py:722] Episode 83 finished after 2880 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0823 15:24:27.803869 139837852067584 sc2_env.py:506] Starting episode 84: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:24:31.764960 139837860460288 sc2_env.py:722] Episode 84 finished after 2880 game steps. Outcome: [1], reward: [0], score: [44]
+Game has started.
+I0823 15:24:31.786750 139837843674880 sc2_env.py:506] Starting episode 85: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:24:35.746382 139837843674880 sc2_env.py:722] Episode 85 finished after 2880 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0823 15:24:35.767091 139837424269056 sc2_env.py:506] Starting episode 86: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:24:39.755502 139837424269056 sc2_env.py:722] Episode 86 finished after 2880 game steps. Outcome: [1], reward: [0], score: [44]
+Game has started.
+I0823 15:24:39.780578 139837843674880 sc2_env.py:506] Starting episode 87: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:24:43.765874 139837860460288 sc2_env.py:722] Episode 87 finished after 2880 game steps. Outcome: [1], reward: [0], score: [39]
+Game has started.
+I0823 15:24:43.791720 139837843674880 sc2_env.py:506] Starting episode 88: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:24:47.745553 139837843674880 sc2_env.py:722] Episode 88 finished after 2880 game steps. Outcome: [1], reward: [0], score: [38]
+Game has started.
+I0823 15:24:47.767427 139837843674880 sc2_env.py:506] Starting episode 89: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:24:51.822937 139837860460288 sc2_env.py:722] Episode 89 finished after 2880 game steps. Outcome: [1], reward: [0], score: [45]
+Game has started.
+I0823 15:24:51.846177 139837843674880 sc2_env.py:506] Starting episode 90: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:24:55.816629 139837843674880 sc2_env.py:722] Episode 90 finished after 2880 game steps. Outcome: [1], reward: [0], score: [40]
+Game has started.
+I0823 15:24:55.835662 139837852067584 sc2_env.py:506] Starting episode 91: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:24:59.825687 139837424269056 sc2_env.py:722] Episode 91 finished after 2880 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0823 15:24:59.849628 139837860460288 sc2_env.py:506] Starting episode 92: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:25:03.811955 139837424269056 sc2_env.py:722] Episode 92 finished after 2880 game steps. Outcome: [1], reward: [0], score: [38]
+Game has started.
+I0823 15:25:03.833523 139837852067584 sc2_env.py:506] Starting episode 93: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:25:08.337803 139837424269056 sc2_env.py:722] Episode 93 finished after 2880 game steps. Outcome: [1], reward: [0], score: [44]
+Unable to do fast restart because gameLoop 264756 >= restartGameLoop 262144
+Performing a full restart of the game.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+I0823 15:25:11.245461 139837843674880 sc2_env.py:506] Starting episode 94: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:25:15.483623 139837843674880 sc2_env.py:722] Episode 94 finished after 2880 game steps. Outcome: [1], reward: [0], score: [45]
+Game has started.
+I0823 15:25:15.506520 139837424269056 sc2_env.py:506] Starting episode 95: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:25:20.077498 139837424269056 sc2_env.py:722] Episode 95 finished after 2880 game steps. Outcome: [1], reward: [0], score: [44]
+Game has started.
+I0823 15:25:20.098433 139837852067584 sc2_env.py:506] Starting episode 96: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:25:23.898653 139837852067584 sc2_env.py:722] Episode 96 finished after 2880 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0823 15:25:23.918029 139837424269056 sc2_env.py:506] Starting episode 97: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:25:27.862846 139837860460288 sc2_env.py:722] Episode 97 finished after 2880 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0823 15:25:27.889438 139837852067584 sc2_env.py:506] Starting episode 98: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:25:32.119983 139837843674880 sc2_env.py:722] Episode 98 finished after 2880 game steps. Outcome: [1], reward: [0], score: [41]
+Game has started.
+I0823 15:25:32.143246 139837860460288 sc2_env.py:506] Starting episode 99: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:25:35.985455 139837424269056 sc2_env.py:722] Episode 99 finished after 2880 game steps. Outcome: [1], reward: [0], score: [42]
+Game has started.
+I0823 15:25:36.006658 139837843674880 sc2_env.py:506] Starting episode 100: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:25:39.771050 139837843674880 sc2_env.py:722] Episode 100 finished after 2880 game steps. Outcome: [1], reward: [0], score: [41]
+Game has started.
+I0823 15:25:39.794836 139837843674880 sc2_env.py:506] Starting episode 101: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:25:43.671078 139837843674880 sc2_env.py:722] Episode 101 finished after 2880 game steps. Outcome: [1], reward: [0], score: [45]
+Game has started.
+I0823 15:25:43.691385 139837852067584 sc2_env.py:506] Starting episode 102: [terran, zerg] on FindAndDefeatZerglings
+I0823 15:25:44.092003 139839547266880 ppo_eval.py:92]
+AverageReturn: 41.1
+AverageEpisodeLength: 359.4
+MaxReturn: 53.0
+MinReturn: 24.0
+ReturnStd: 4.8528347
+ChosenActionIDHistogram: [1 1 1 1 1 2 2 2 2 2 2 1 2 2 2 2 2 1 1 1 1 1 1 1 2 1 1 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 2 2 2 2 2 2 2 1 1 1 1 1 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 2 2 2 2 2 2 2 2 1 2 2 2 2 2 2 2 2 2
+ 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 1 1 1 2 2 2 2
+ 2 2 2 2 2 2 2 1 1 1 2 2 2 2 2 2 2 2 2 0 1 1 0 1 2 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1
+ 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 2 2 2 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1
+ 1 1 1 1 0 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 1
+ 1 1 1 2 2 2 1 2 2 2 2 2 2 2 2 2 2 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2
+ 2 2 1 1 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 2 1 2 2 2 2 2 2 1 1 1 1 1 1 1 2 2 2
+ 2 2 2 2 2 2 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 2 1 1 2 1 1 1 1 1 2 2 2 2 2 2 2 2 1 2 2 2 1
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 1 1 2 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 2 1 1 1 1 2 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 2 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 2 2 2 2 2 2 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2
+ 2 2 1 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 2 1 1 1
+ 1 1 1 1 1 2 2 2 2 1 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 1
+ 1]
+I0823 15:25:44.092233 139839547266880 parallel_py_environment.py:165] Closing all processes.
+/home/ricechrispi/PycharmProjects/bac_project/venv/lib/python3.8/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ricechrispi/PycharmProjects/bac_project/venv/lib/python3.8/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ricechrispi/PycharmProjects/bac_project/venv/lib/python3.8/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+/home/ricechrispi/PycharmProjects/bac_project/venv/lib/python3.8/site-packages/gym/logger.py:30: UserWarning: [33mWARN: Box bound precision lowered by casting to float32[0m
+  warnings.warn(colorize('%s: %s'%('WARN', msg % args), 'yellow'))
+I0823 15:25:44.124284 139839547266880 parallel_py_environment.py:168] All processes closed.
+I0823 15:25:44.124662 139837415876352 sc2_env.py:752] Environment Close
+RequestQuit command received.
+Closing Application...
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:36626 disconnected
+I0823 15:25:44.225850 139837415876352 sc_process.py:232] Shutdown gracefully.
+I0823 15:25:44.226235 139837415876352 sc_process.py:210] Shutdown with return code: -15

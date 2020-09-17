@@ -1,0 +1,487 @@
+2020-08-28 21:04:39.280972: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcudart.so.10.1'; dlerror: libcudart.so.10.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-28 21:04:39.281022: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+I0828 21:04:40.778304 140485942187840 parallel_py_environment.py:102] Spawning all processes.
+2020-08-28 21:04:40.802427: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-28 21:04:40.802501: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-28 21:04:40.802552: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-28 21:04:40.803121: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-28 21:04:40.805386: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-28 21:04:40.805438: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-28 21:04:40.805470: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-28 21:04:40.806014: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+I0828 21:04:40.810526 140485942187840 parallel_py_environment.py:106] Waiting for all processes to start.
+2020-08-28 21:04:40.813436: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-28 21:04:40.813493: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-28 21:04:40.813523: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-28 21:04:40.814036: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-28 21:04:40.815222: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194075000 Hz
+2020-08-28 21:04:40.815887: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x4a95e00 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-28 21:04:40.815914: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-08-28 21:04:40.822194: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-28 21:04:40.822262: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-28 21:04:40.822298: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-28 21:04:40.822869: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-28 21:04:40.824054: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194075000 Hz
+2020-08-28 21:04:40.824179: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-28 21:04:40.824237: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-28 21:04:40.824279: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-28 21:04:40.824560: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x4a95e00 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-28 21:04:40.824588: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-08-28 21:04:40.825004: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-28 21:04:40.834588: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194075000 Hz
+2020-08-28 21:04:40.834648: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194075000 Hz
+2020-08-28 21:04:40.835094: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x4a95e00 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-28 21:04:40.835113: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-08-28 21:04:40.835417: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x4a95e00 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-28 21:04:40.835483: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-08-28 21:04:40.838931: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194075000 Hz
+2020-08-28 21:04:40.839611: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x4a95e00 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-28 21:04:40.839668: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+I0828 21:04:40.862875 140485942187840 parallel_py_environment.py:109] All processes started.
+2020-08-28 21:04:40.885325: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-28 21:04:40.885368: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-28 21:04:40.885394: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-28 21:04:40.885716: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-28 21:04:40.893986: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194075000 Hz
+2020-08-28 21:04:40.894533: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x4a95e00 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-28 21:04:40.894578: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+I0828 21:04:40.901984 140485942187840 sc_process.py:135] Launching SC2: /home/ricechrispi/StarCraftII/Versions/Base75689/SC2_x64 -listen 127.0.0.1 -port 23380 -dataDir /home/ricechrispi/StarCraftII/ -tempDir /tmp/sc-_p2rmkda/
+I0828 21:04:40.912940 140485942187840 remote_controller.py:166] Connecting to: ws://127.0.0.1:23380/sc2api, attempt: 0, running: True
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/ricechrispi/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 23380 -dataDir /home/ricechrispi/StarCraftII/ -tempDir /tmp/sc-_p2rmkda/'
+Starting up...
+Startup Phase 1 complete
+I0828 21:04:41.914547 140485942187840 remote_controller.py:166] Connecting to: ws://127.0.0.1:23380/sc2api, attempt: 1, running: True
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:23380
+Startup Phase 3 complete. Ready for commands.
+I0828 21:04:42.916244 140485942187840 remote_controller.py:166] Connecting to: ws://127.0.0.1:23380/sc2api, attempt: 2, running: True
+ConnectHandler: Request from 127.0.0.1:47260 accepted
+ReadyHandler: 127.0.0.1:47260 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface enabled
+Configure: score interface enabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Using default stable ids, none found at: /home/ricechrispi/StarCraftII/stableid.json
+Successfully loaded stable ids: GameData\stableid.json
+Sending ResponseJoinGame
+I0828 21:04:47.745222 140485942187840 sc2_env.py:314] Environment is ready
+I0828 21:04:47.763459 140485942187840 sc2_env.py:506] Starting episode 1: [terran] on BuildMarines
+W0828 21:04:48.034589 140485942187840 my_ppo_agent.py:307] Only tf.keras.optimizers.Optimiers are well supported, got a non-TF2 optimizer: <tensorflow.python.training.adam.AdamOptimizer object at 0x7fc565934d60>
+I0828 21:04:48.049313 140485942187840 common.py:977] Checkpoint available: ./results/BuildMarines/checkpoints/collect_policy/ckpt-1668
+I0828 21:04:48.256851 140485942187840 common.py:977] Checkpoint available: ./results/BuildMarines/checkpoints/policy/ckpt-1668
+2020-08-28 21:04:48.439828: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:118] None of the MLIR optimization passes are enabled (registered 1)
+Game has started.
+I0828 21:04:48.507101 140485942187840 sc2_env.py:506] Starting episode 2: [terran] on BuildMarines
+I0828 21:05:22.720677 140481988122368 sc2_env.py:722] Episode 2 finished after 14400 game steps. Outcome: [1], reward: [0], score: [11]
+Game has started.
+I0828 21:05:22.742841 140481996515072 sc2_env.py:506] Starting episode 3: [terran] on BuildMarines
+I0828 21:05:56.151011 140481962944256 sc2_env.py:722] Episode 3 finished after 14400 game steps. Outcome: [1], reward: [0], score: [28]
+Game has started.
+I0828 21:05:56.176032 140481518360320 sc2_env.py:506] Starting episode 4: [terran] on BuildMarines
+I0828 21:06:28.567220 140481954551552 sc2_env.py:722] Episode 4 finished after 14400 game steps. Outcome: [1], reward: [0], score: [37]
+Game has started.
+I0828 21:06:28.587240 140481509967616 sc2_env.py:506] Starting episode 5: [terran] on BuildMarines
+I0828 21:07:00.943160 140481996515072 sc2_env.py:722] Episode 5 finished after 14400 game steps. Outcome: [1], reward: [0], score: [54]
+Game has started.
+I0828 21:07:00.969509 140481971336960 sc2_env.py:506] Starting episode 6: [terran] on BuildMarines
+I0828 21:07:32.608818 140481526753024 sc2_env.py:722] Episode 6 finished after 14400 game steps. Outcome: [1], reward: [0], score: [33]
+Game has started.
+I0828 21:07:32.630501 140481954551552 sc2_env.py:506] Starting episode 7: [terran] on BuildMarines
+I0828 21:08:06.984548 140481501574912 sc2_env.py:722] Episode 7 finished after 14400 game steps. Outcome: [1], reward: [0], score: [37]
+Game has started.
+I0828 21:08:07.010459 140481535145728 sc2_env.py:506] Starting episode 8: [terran] on BuildMarines
+I0828 21:08:41.664373 140481518360320 sc2_env.py:722] Episode 8 finished after 14400 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0828 21:08:41.690145 140481954551552 sc2_env.py:506] Starting episode 9: [terran] on BuildMarines
+I0828 21:09:15.939965 140481400928000 sc2_env.py:722] Episode 9 finished after 14400 game steps. Outcome: [1], reward: [0], score: [39]
+Game has started.
+I0828 21:09:15.965186 140481518360320 sc2_env.py:506] Starting episode 10: [terran] on BuildMarines
+I0828 21:09:50.289299 140481962944256 sc2_env.py:722] Episode 10 finished after 14400 game steps. Outcome: [1], reward: [0], score: [63]
+Game has started.
+I0828 21:09:50.318881 140481971336960 sc2_env.py:506] Starting episode 11: [terran] on BuildMarines
+I0828 21:10:25.105807 140481509967616 sc2_env.py:722] Episode 11 finished after 14400 game steps. Outcome: [1], reward: [0], score: [51]
+Game has started.
+I0828 21:10:25.132685 140481518360320 sc2_env.py:506] Starting episode 12: [terran] on BuildMarines
+I0828 21:10:59.224316 140481979729664 sc2_env.py:722] Episode 12 finished after 14400 game steps. Outcome: [1], reward: [0], score: [45]
+Game has started.
+I0828 21:10:59.249037 140481526753024 sc2_env.py:506] Starting episode 13: [terran] on BuildMarines
+I0828 21:11:33.054533 140481400928000 sc2_env.py:722] Episode 13 finished after 14400 game steps. Outcome: [1], reward: [1], score: [56]
+Game has started.
+I0828 21:11:33.081591 140481979729664 sc2_env.py:506] Starting episode 14: [terran] on BuildMarines
+I0828 21:12:07.121511 140481509967616 sc2_env.py:722] Episode 14 finished after 14400 game steps. Outcome: [1], reward: [0], score: [55]
+Game has started.
+I0828 21:12:07.148295 140481518360320 sc2_env.py:506] Starting episode 15: [terran] on BuildMarines
+I0828 21:12:38.967988 140481518360320 sc2_env.py:722] Episode 15 finished after 14400 game steps. Outcome: [1], reward: [0], score: [21]
+Game has started.
+I0828 21:12:38.994432 140481971336960 sc2_env.py:506] Starting episode 16: [terran] on BuildMarines
+I0828 21:13:11.455338 140481501574912 sc2_env.py:722] Episode 16 finished after 14400 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0828 21:13:11.481484 140481954551552 sc2_env.py:506] Starting episode 17: [terran] on BuildMarines
+I0828 21:13:46.471965 140481954551552 sc2_env.py:722] Episode 17 finished after 14400 game steps. Outcome: [1], reward: [0], score: [61]
+Game has started.
+I0828 21:13:46.496995 140481988122368 sc2_env.py:506] Starting episode 18: [terran] on BuildMarines
+I0828 21:14:21.113246 140481526753024 sc2_env.py:722] Episode 18 finished after 14400 game steps. Outcome: [1], reward: [0], score: [29]
+Game has started.
+I0828 21:14:21.141529 140481501574912 sc2_env.py:506] Starting episode 19: [terran] on BuildMarines
+I0828 21:14:55.370327 140481509967616 sc2_env.py:722] Episode 19 finished after 14400 game steps. Outcome: [1], reward: [0], score: [27]
+Game has started.
+I0828 21:14:55.398303 140481962944256 sc2_env.py:506] Starting episode 20: [terran] on BuildMarines
+I0828 21:15:27.595242 140481996515072 sc2_env.py:722] Episode 20 finished after 14400 game steps. Outcome: [1], reward: [0], score: [56]
+Unable to do fast restart because gameLoop 273619 >= restartGameLoop 262144
+Performing a full restart of the game.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+I0828 21:15:30.244225 140481501574912 sc2_env.py:506] Starting episode 21: [terran] on BuildMarines
+I0828 21:16:04.276809 140481501574912 sc2_env.py:722] Episode 21 finished after 14400 game steps. Outcome: [1], reward: [0], score: [50]
+Game has started.
+I0828 21:16:04.303219 140481400928000 sc2_env.py:506] Starting episode 22: [terran] on BuildMarines
+I0828 21:16:37.499393 140481954551552 sc2_env.py:722] Episode 22 finished after 14400 game steps. Outcome: [1], reward: [0], score: [48]
+Game has started.
+I0828 21:16:37.524363 140481518360320 sc2_env.py:506] Starting episode 23: [terran] on BuildMarines
+I0828 21:17:11.226485 140481954551552 sc2_env.py:722] Episode 23 finished after 14400 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0828 21:17:11.251629 140481962944256 sc2_env.py:506] Starting episode 24: [terran] on BuildMarines
+I0828 21:17:45.263949 140481509967616 sc2_env.py:722] Episode 24 finished after 14400 game steps. Outcome: [1], reward: [0], score: [29]
+Game has started.
+I0828 21:17:45.291801 140481526753024 sc2_env.py:506] Starting episode 25: [terran] on BuildMarines
+I0828 21:18:18.780321 140481518360320 sc2_env.py:722] Episode 25 finished after 14400 game steps. Outcome: [1], reward: [1], score: [48]
+Game has started.
+I0828 21:18:18.804016 140481962944256 sc2_env.py:506] Starting episode 26: [terran] on BuildMarines
+I0828 21:18:51.495278 140481400928000 sc2_env.py:722] Episode 26 finished after 14400 game steps. Outcome: [1], reward: [0], score: [38]
+Game has started.
+I0828 21:18:51.520100 140481954551552 sc2_env.py:506] Starting episode 27: [terran] on BuildMarines
+I0828 21:19:26.860636 140481526753024 sc2_env.py:722] Episode 27 finished after 14400 game steps. Outcome: [1], reward: [0], score: [57]
+Game has started.
+I0828 21:19:26.883190 140481518360320 sc2_env.py:506] Starting episode 28: [terran] on BuildMarines
+I0828 21:20:00.054796 140481518360320 sc2_env.py:722] Episode 28 finished after 14400 game steps. Outcome: [1], reward: [0], score: [54]
+Game has started.
+I0828 21:20:00.076128 140481979729664 sc2_env.py:506] Starting episode 29: [terran] on BuildMarines
+I0828 21:20:34.271590 140481962944256 sc2_env.py:722] Episode 29 finished after 14400 game steps. Outcome: [1], reward: [0], score: [52]
+Game has started.
+I0828 21:20:34.298311 140481509967616 sc2_env.py:506] Starting episode 30: [terran] on BuildMarines
+I0828 21:21:07.749734 140481526753024 sc2_env.py:722] Episode 30 finished after 14400 game steps. Outcome: [1], reward: [0], score: [34]
+Game has started.
+I0828 21:21:07.775687 140481971336960 sc2_env.py:506] Starting episode 31: [terran] on BuildMarines
+I0828 21:21:39.972351 140481526753024 sc2_env.py:722] Episode 31 finished after 14400 game steps. Outcome: [1], reward: [0], score: [48]
+Game has started.
+I0828 21:21:39.996777 140481962944256 sc2_env.py:506] Starting episode 32: [terran] on BuildMarines
+I0828 21:22:13.581915 140481501574912 sc2_env.py:722] Episode 32 finished after 14400 game steps. Outcome: [1], reward: [0], score: [50]
+Game has started.
+I0828 21:22:13.603600 140481988122368 sc2_env.py:506] Starting episode 33: [terran] on BuildMarines
+I0828 21:22:47.307070 140481962944256 sc2_env.py:722] Episode 33 finished after 14400 game steps. Outcome: [1], reward: [0], score: [52]
+Game has started.
+I0828 21:22:47.330331 140481501574912 sc2_env.py:506] Starting episode 34: [terran] on BuildMarines
+I0828 21:23:19.871341 140481501574912 sc2_env.py:722] Episode 34 finished after 14400 game steps. Outcome: [1], reward: [0], score: [37]
+Game has started.
+I0828 21:23:19.903816 140481400928000 sc2_env.py:506] Starting episode 35: [terran] on BuildMarines
+I0828 21:23:52.329867 140481996515072 sc2_env.py:722] Episode 35 finished after 14400 game steps. Outcome: [1], reward: [0], score: [28]
+Game has started.
+I0828 21:23:52.355385 140481535145728 sc2_env.py:506] Starting episode 36: [terran] on BuildMarines
+I0828 21:24:25.932099 140481526753024 sc2_env.py:722] Episode 36 finished after 14400 game steps. Outcome: [1], reward: [0], score: [44]
+Game has started.
+I0828 21:24:25.957212 140481962944256 sc2_env.py:506] Starting episode 37: [terran] on BuildMarines
+I0828 21:25:00.742427 140481509967616 sc2_env.py:722] Episode 37 finished after 14400 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0828 21:25:00.768765 140481954551552 sc2_env.py:506] Starting episode 38: [terran] on BuildMarines
+I0828 21:25:36.603899 140481979729664 sc2_env.py:722] Episode 38 finished after 14400 game steps. Outcome: [1], reward: [0], score: [54]
+Game has started.
+I0828 21:25:36.631227 140481979729664 sc2_env.py:506] Starting episode 39: [terran] on BuildMarines
+I0828 21:26:07.141827 140481535145728 sc2_env.py:722] Episode 39 finished after 14400 game steps. Outcome: [1], reward: [0], score: [23]
+Unable to do fast restart because gameLoop 273618 >= restartGameLoop 262144
+Performing a full restart of the game.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+I0828 21:26:09.764453 140481954551552 sc2_env.py:506] Starting episode 40: [terran] on BuildMarines
+I0828 21:26:43.766144 140481400928000 sc2_env.py:722] Episode 40 finished after 14400 game steps. Outcome: [1], reward: [0], score: [16]
+Game has started.
+I0828 21:26:43.791640 140481400928000 sc2_env.py:506] Starting episode 41: [terran] on BuildMarines
+I0828 21:27:16.994855 140481979729664 sc2_env.py:722] Episode 41 finished after 14400 game steps. Outcome: [1], reward: [0], score: [38]
+Game has started.
+I0828 21:27:17.020498 140481501574912 sc2_env.py:506] Starting episode 42: [terran] on BuildMarines
+I0828 21:27:51.586455 140481979729664 sc2_env.py:722] Episode 42 finished after 14400 game steps. Outcome: [1], reward: [0], score: [51]
+Game has started.
+I0828 21:27:51.608060 140481979729664 sc2_env.py:506] Starting episode 43: [terran] on BuildMarines
+I0828 21:28:23.477131 140481526753024 sc2_env.py:722] Episode 43 finished after 14400 game steps. Outcome: [1], reward: [0], score: [15]
+Game has started.
+I0828 21:28:23.500053 140481535145728 sc2_env.py:506] Starting episode 44: [terran] on BuildMarines
+I0828 21:28:56.821224 140481988122368 sc2_env.py:722] Episode 44 finished after 14400 game steps. Outcome: [1], reward: [0], score: [35]
+Game has started.
+I0828 21:28:56.846153 140481535145728 sc2_env.py:506] Starting episode 45: [terran] on BuildMarines
+I0828 21:29:30.123806 140481518360320 sc2_env.py:722] Episode 45 finished after 14400 game steps. Outcome: [1], reward: [0], score: [57]
+Game has started.
+I0828 21:29:30.145551 140481979729664 sc2_env.py:506] Starting episode 46: [terran] on BuildMarines
+I0828 21:30:03.558100 140481509967616 sc2_env.py:722] Episode 46 finished after 14400 game steps. Outcome: [1], reward: [0], score: [21]
+Game has started.
+I0828 21:30:03.584131 140481518360320 sc2_env.py:506] Starting episode 47: [terran] on BuildMarines
+I0828 21:30:37.766610 140481526753024 sc2_env.py:722] Episode 47 finished after 14400 game steps. Outcome: [1], reward: [0], score: [46]
+Game has started.
+I0828 21:30:37.786245 140481962944256 sc2_env.py:506] Starting episode 48: [terran] on BuildMarines
+I0828 21:31:09.889901 140481988122368 sc2_env.py:722] Episode 48 finished after 14400 game steps. Outcome: [1], reward: [1], score: [42]
+Game has started.
+I0828 21:31:09.916749 140481996515072 sc2_env.py:506] Starting episode 49: [terran] on BuildMarines
+I0828 21:31:44.353527 140481509967616 sc2_env.py:722] Episode 49 finished after 14400 game steps. Outcome: [1], reward: [0], score: [42]
+Game has started.
+I0828 21:31:44.379680 140481996515072 sc2_env.py:506] Starting episode 50: [terran] on BuildMarines
+I0828 21:32:16.208609 140481526753024 sc2_env.py:722] Episode 50 finished after 14400 game steps. Outcome: [1], reward: [0], score: [36]
+Game has started.
+I0828 21:32:16.232959 140481971336960 sc2_env.py:506] Starting episode 51: [terran] on BuildMarines
+I0828 21:32:52.753273 140481400928000 sc2_env.py:722] Episode 51 finished after 14400 game steps. Outcome: [1], reward: [0], score: [62]
+Game has started.
+I0828 21:32:52.780395 140481996515072 sc2_env.py:506] Starting episode 52: [terran] on BuildMarines
+I0828 21:33:26.032762 140481400928000 sc2_env.py:722] Episode 52 finished after 14400 game steps. Outcome: [1], reward: [0], score: [39]
+Game has started.
+I0828 21:33:26.059893 140481509967616 sc2_env.py:506] Starting episode 53: [terran] on BuildMarines
+I0828 21:34:01.365788 140481509967616 sc2_env.py:722] Episode 53 finished after 14400 game steps. Outcome: [1], reward: [0], score: [50]
+Game has started.
+I0828 21:34:01.391783 140481518360320 sc2_env.py:506] Starting episode 54: [terran] on BuildMarines
+I0828 21:34:34.238625 140481962944256 sc2_env.py:722] Episode 54 finished after 14400 game steps. Outcome: [1], reward: [0], score: [51]
+Game has started.
+I0828 21:34:34.263401 140481526753024 sc2_env.py:506] Starting episode 55: [terran] on BuildMarines
+I0828 21:35:06.443032 140481996515072 sc2_env.py:722] Episode 55 finished after 14400 game steps. Outcome: [1], reward: [0], score: [51]
+Game has started.
+I0828 21:35:06.463747 140481501574912 sc2_env.py:506] Starting episode 56: [terran] on BuildMarines
+I0828 21:35:40.051198 140481962944256 sc2_env.py:722] Episode 56 finished after 14400 game steps. Outcome: [1], reward: [0], score: [47]
+Game has started.
+I0828 21:35:40.079021 140481526753024 sc2_env.py:506] Starting episode 57: [terran] on BuildMarines
+I0828 21:36:12.450298 140481400928000 sc2_env.py:722] Episode 57 finished after 14400 game steps. Outcome: [1], reward: [0], score: [18]
+Game has started.
+I0828 21:36:12.468145 140481400928000 sc2_env.py:506] Starting episode 58: [terran] on BuildMarines
+I0828 21:36:45.967533 140481988122368 sc2_env.py:722] Episode 58 finished after 14400 game steps. Outcome: [1], reward: [0], score: [49]
+Unable to do fast restart because gameLoop 273618 >= restartGameLoop 262144
+Performing a full restart of the game.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+I0828 21:36:48.554818 140481509967616 sc2_env.py:506] Starting episode 59: [terran] on BuildMarines
+I0828 21:37:24.280121 140481954551552 sc2_env.py:722] Episode 59 finished after 14400 game steps. Outcome: [1], reward: [0], score: [69]
+Game has started.
+I0828 21:37:24.304358 140481979729664 sc2_env.py:506] Starting episode 60: [terran] on BuildMarines
+I0828 21:37:57.757700 140481518360320 sc2_env.py:722] Episode 60 finished after 14400 game steps. Outcome: [1], reward: [0], score: [35]
+Game has started.
+I0828 21:37:57.786642 140481400928000 sc2_env.py:506] Starting episode 61: [terran] on BuildMarines
+I0828 21:38:30.153542 140481526753024 sc2_env.py:722] Episode 61 finished after 14400 game steps. Outcome: [1], reward: [0], score: [19]
+Game has started.
+I0828 21:38:30.178229 140481988122368 sc2_env.py:506] Starting episode 62: [terran] on BuildMarines
+I0828 21:39:03.398509 140481971336960 sc2_env.py:722] Episode 62 finished after 14400 game steps. Outcome: [1], reward: [0], score: [38]
+Game has started.
+I0828 21:39:03.425801 140481954551552 sc2_env.py:506] Starting episode 63: [terran] on BuildMarines
+I0828 21:39:36.683436 140481509967616 sc2_env.py:722] Episode 63 finished after 14400 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0828 21:39:36.712157 140481988122368 sc2_env.py:506] Starting episode 64: [terran] on BuildMarines
+I0828 21:40:11.132680 140481518360320 sc2_env.py:722] Episode 64 finished after 14400 game steps. Outcome: [1], reward: [0], score: [30]
+Game has started.
+I0828 21:40:11.157670 140481526753024 sc2_env.py:506] Starting episode 65: [terran] on BuildMarines
+I0828 21:40:45.236732 140481962944256 sc2_env.py:722] Episode 65 finished after 14400 game steps. Outcome: [1], reward: [0], score: [44]
+Game has started.
+I0828 21:40:45.263446 140481996515072 sc2_env.py:506] Starting episode 66: [terran] on BuildMarines
+I0828 21:41:19.803468 140481535145728 sc2_env.py:722] Episode 66 finished after 14400 game steps. Outcome: [1], reward: [0], score: [45]
+Game has started.
+I0828 21:41:19.829512 140481962944256 sc2_env.py:506] Starting episode 67: [terran] on BuildMarines
+I0828 21:41:54.020681 140481526753024 sc2_env.py:722] Episode 67 finished after 14400 game steps. Outcome: [1], reward: [0], score: [23]
+Game has started.
+I0828 21:41:54.049630 140481979729664 sc2_env.py:506] Starting episode 68: [terran] on BuildMarines
+I0828 21:42:25.606000 140481501574912 sc2_env.py:722] Episode 68 finished after 14400 game steps. Outcome: [1], reward: [0], score: [28]
+Game has started.
+I0828 21:42:25.632212 140481526753024 sc2_env.py:506] Starting episode 69: [terran] on BuildMarines
+I0828 21:42:58.526139 140481501574912 sc2_env.py:722] Episode 69 finished after 14400 game steps. Outcome: [1], reward: [0], score: [23]
+Game has started.
+I0828 21:42:58.548504 140481518360320 sc2_env.py:506] Starting episode 70: [terran] on BuildMarines
+I0828 21:43:32.047639 140481996515072 sc2_env.py:722] Episode 70 finished after 14400 game steps. Outcome: [1], reward: [0], score: [60]
+Game has started.
+I0828 21:43:32.073963 140481971336960 sc2_env.py:506] Starting episode 71: [terran] on BuildMarines
+I0828 21:44:07.440351 140481988122368 sc2_env.py:722] Episode 71 finished after 14400 game steps. Outcome: [1], reward: [0], score: [63]
+Game has started.
+I0828 21:44:07.465457 140481526753024 sc2_env.py:506] Starting episode 72: [terran] on BuildMarines
+I0828 21:44:41.891688 140481971336960 sc2_env.py:722] Episode 72 finished after 14400 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0828 21:44:41.913933 140481954551552 sc2_env.py:506] Starting episode 73: [terran] on BuildMarines
+I0828 21:45:20.501951 140481526753024 sc2_env.py:722] Episode 73 finished after 14400 game steps. Outcome: [1], reward: [0], score: [55]
+Game has started.
+I0828 21:45:20.533510 140481535145728 sc2_env.py:506] Starting episode 74: [terran] on BuildMarines
+I0828 21:45:56.289313 140481979729664 sc2_env.py:722] Episode 74 finished after 14400 game steps. Outcome: [1], reward: [0], score: [47]
+Game has started.
+I0828 21:45:56.318707 140481535145728 sc2_env.py:506] Starting episode 75: [terran] on BuildMarines
+I0828 21:46:31.890337 140481535145728 sc2_env.py:722] Episode 75 finished after 14400 game steps. Outcome: [1], reward: [0], score: [27]
+Game has started.
+I0828 21:46:31.913015 140481535145728 sc2_env.py:506] Starting episode 76: [terran] on BuildMarines
+I0828 21:47:06.680171 140481996515072 sc2_env.py:722] Episode 76 finished after 14400 game steps. Outcome: [1], reward: [0], score: [40]
+Game has started.
+I0828 21:47:06.703928 140481962944256 sc2_env.py:506] Starting episode 77: [terran] on BuildMarines
+I0828 21:47:41.607287 140481971336960 sc2_env.py:722] Episode 77 finished after 14400 game steps. Outcome: [1], reward: [0], score: [46]
+Unable to do fast restart because gameLoop 273618 >= restartGameLoop 262144
+Performing a full restart of the game.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+I0828 21:47:44.333102 140481535145728 sc2_env.py:506] Starting episode 78: [terran] on BuildMarines
+I0828 21:48:17.244379 140481988122368 sc2_env.py:722] Episode 78 finished after 14400 game steps. Outcome: [1], reward: [0], score: [36]
+Game has started.
+I0828 21:48:17.271689 140481509967616 sc2_env.py:506] Starting episode 79: [terran] on BuildMarines
+I0828 21:48:53.228222 140481526753024 sc2_env.py:722] Episode 79 finished after 14400 game steps. Outcome: [1], reward: [0], score: [57]
+Game has started.
+I0828 21:48:53.252063 140481501574912 sc2_env.py:506] Starting episode 80: [terran] on BuildMarines
+I0828 21:49:25.983160 140481971336960 sc2_env.py:722] Episode 80 finished after 14400 game steps. Outcome: [1], reward: [0], score: [54]
+Game has started.
+I0828 21:49:26.006000 140481535145728 sc2_env.py:506] Starting episode 81: [terran] on BuildMarines
+I0828 21:50:01.580096 140481535145728 sc2_env.py:722] Episode 81 finished after 14400 game steps. Outcome: [1], reward: [0], score: [44]
+Game has started.
+I0828 21:50:01.603734 140481501574912 sc2_env.py:506] Starting episode 82: [terran] on BuildMarines
+I0828 21:50:35.255241 140481971336960 sc2_env.py:722] Episode 82 finished after 14400 game steps. Outcome: [1], reward: [0], score: [22]
+Game has started.
+I0828 21:50:35.284484 140481996515072 sc2_env.py:506] Starting episode 83: [terran] on BuildMarines
+I0828 21:51:08.587032 140481518360320 sc2_env.py:722] Episode 83 finished after 14400 game steps. Outcome: [1], reward: [0], score: [40]
+Game has started.
+I0828 21:51:08.618312 140481518360320 sc2_env.py:506] Starting episode 84: [terran] on BuildMarines
+I0828 21:51:44.781084 140481400928000 sc2_env.py:722] Episode 84 finished after 14400 game steps. Outcome: [1], reward: [0], score: [45]
+Game has started.
+I0828 21:51:44.804294 140481996515072 sc2_env.py:506] Starting episode 85: [terran] on BuildMarines
+I0828 21:52:17.385423 140481988122368 sc2_env.py:722] Episode 85 finished after 14400 game steps. Outcome: [1], reward: [0], score: [42]
+Game has started.
+I0828 21:52:17.408208 140481518360320 sc2_env.py:506] Starting episode 86: [terran] on BuildMarines
+I0828 21:52:51.386446 140481971336960 sc2_env.py:722] Episode 86 finished after 14400 game steps. Outcome: [1], reward: [0], score: [56]
+Game has started.
+I0828 21:52:51.408782 140481400928000 sc2_env.py:506] Starting episode 87: [terran] on BuildMarines
+I0828 21:53:24.917785 140481988122368 sc2_env.py:722] Episode 87 finished after 14400 game steps. Outcome: [1], reward: [0], score: [33]
+Game has started.
+I0828 21:53:24.944533 140481954551552 sc2_env.py:506] Starting episode 88: [terran] on BuildMarines
+I0828 21:54:00.688704 140481400928000 sc2_env.py:722] Episode 88 finished after 14400 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0828 21:54:00.716356 140481400928000 sc2_env.py:506] Starting episode 89: [terran] on BuildMarines
+I0828 21:54:33.645923 140481526753024 sc2_env.py:722] Episode 89 finished after 14400 game steps. Outcome: [1], reward: [0], score: [30]
+Game has started.
+I0828 21:54:33.668700 140481996515072 sc2_env.py:506] Starting episode 90: [terran] on BuildMarines
+I0828 21:55:07.202491 140481400928000 sc2_env.py:722] Episode 90 finished after 14400 game steps. Outcome: [1], reward: [0], score: [37]
+Game has started.
+I0828 21:55:07.225072 140481962944256 sc2_env.py:506] Starting episode 91: [terran] on BuildMarines
+I0828 21:55:41.708441 140481535145728 sc2_env.py:722] Episode 91 finished after 14400 game steps. Outcome: [1], reward: [0], score: [43]
+Game has started.
+I0828 21:55:41.731664 140481971336960 sc2_env.py:506] Starting episode 92: [terran] on BuildMarines
+I0828 21:56:18.198506 140481996515072 sc2_env.py:722] Episode 92 finished after 14400 game steps. Outcome: [1], reward: [0], score: [52]
+Game has started.
+I0828 21:56:18.220862 140481400928000 sc2_env.py:506] Starting episode 93: [terran] on BuildMarines
+I0828 21:56:52.671748 140481979729664 sc2_env.py:722] Episode 93 finished after 14400 game steps. Outcome: [1], reward: [1], score: [62]
+Game has started.
+I0828 21:56:52.694394 140481535145728 sc2_env.py:506] Starting episode 94: [terran] on BuildMarines
+I0828 21:57:27.239274 140481509967616 sc2_env.py:722] Episode 94 finished after 14400 game steps. Outcome: [1], reward: [0], score: [38]
+Game has started.
+I0828 21:57:27.264736 140481988122368 sc2_env.py:506] Starting episode 95: [terran] on BuildMarines
+I0828 21:58:00.969360 140481979729664 sc2_env.py:722] Episode 95 finished after 14400 game steps. Outcome: [1], reward: [0], score: [35]
+Game has started.
+I0828 21:58:00.996651 140481535145728 sc2_env.py:506] Starting episode 96: [terran] on BuildMarines
+I0828 21:58:36.738073 140481954551552 sc2_env.py:722] Episode 96 finished after 14400 game steps. Outcome: [1], reward: [0], score: [49]
+Unable to do fast restart because gameLoop 273618 >= restartGameLoop 262144
+Performing a full restart of the game.
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+I0828 21:58:39.472024 140481400928000 sc2_env.py:506] Starting episode 97: [terran] on BuildMarines
+I0828 21:59:14.346506 140481535145728 sc2_env.py:722] Episode 97 finished after 14400 game steps. Outcome: [1], reward: [0], score: [34]
+Game has started.
+I0828 21:59:14.372959 140481954551552 sc2_env.py:506] Starting episode 98: [terran] on BuildMarines
+I0828 21:59:49.943997 140481501574912 sc2_env.py:722] Episode 98 finished after 14400 game steps. Outcome: [1], reward: [0], score: [50]
+Game has started.
+I0828 21:59:49.968115 140481954551552 sc2_env.py:506] Starting episode 99: [terran] on BuildMarines
+I0828 22:00:23.612921 140481979729664 sc2_env.py:722] Episode 99 finished after 14400 game steps. Outcome: [1], reward: [0], score: [34]
+Game has started.
+I0828 22:00:23.640030 140481526753024 sc2_env.py:506] Starting episode 100: [terran] on BuildMarines
+I0828 22:00:59.875196 140481988122368 sc2_env.py:722] Episode 100 finished after 14400 game steps. Outcome: [1], reward: [0], score: [49]
+Game has started.
+I0828 22:00:59.899383 140481979729664 sc2_env.py:506] Starting episode 101: [terran] on BuildMarines
+I0828 22:01:33.624233 140481954551552 sc2_env.py:722] Episode 101 finished after 14400 game steps. Outcome: [1], reward: [0], score: [23]
+Game has started.
+I0828 22:01:33.646206 140481501574912 sc2_env.py:506] Starting episode 102: [terran] on BuildMarines
+I0828 22:01:34.011395 140485942187840 ppo_eval.py:92] 
+AverageReturn: 40.99
+AverageEpisodeLength: 1800.0
+MaxReturn: 69.0
+MinReturn: 11.0
+ReturnStd: 12.759699
+ChosenActionIDHistogram: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 6 2 6 1 0 1 1 1 1 1 1 7 1 4 3 1 1 8 2 8 1 7
+ 8 4 6 4 8 6 8 4 1 1 1 7 1 3 4 3 1 1 1 1 1 8 1 1 4 1 1 1 1 1 1 8 1 0 6 1 4
+ 4 8 8 4 4 3 6 0 5 6 1 5 0 3 0 6 0 1 1 2 1 4 7 2 1 1 1 1 1 1 1 4 1 1 4 6 1
+ 0 4 1 1 4 8 1 0 4 7 1 8 3 1 1 4 8 5 3 1 5 2 1 1 5 1 1 0 5 1 1 1 8 6 1 7 2
+ 3 1 1 3 2 5 1 1 1 1 1 2 5 1 2 0 2 2 1 2 3 1 2 5 1 1 2 5 2 1 1 6 1 1 1 1 1
+ 8 8 2 1 0 1 1 2 4 1 1 1 1 1 1 1 5 5 1 0 6 2 1 1 4 4 0 4 4 5 1 1 4 5 1 1 3
+ 5 0 6 0 6 0 1 2 4 1 8 2 0 0 3 1 8 2 7 1 6 7 8 7 4 0 8 4 5 2 2 8 0 5 1 2 0
+ 1 1 1 8 2 0 0 1 2 1 5 5 5 4 1 2 2 5 2 4 5 6 0 1 3 4 8 1 6 6 2 5 4 2 2 1 6
+ 0 8 1 4 2 1 2 7 7 2 1 2 1 0 4 4 4 8 8 8 2 5 1 5 2 1 5 1 2 1 2 1 4 8 8 8 0
+ 2 7 4 2 1 2 2 2 2 1 2 1 7 1 4 1 6 3 3 2 5 2 1 6 1 1 3 3 6 1 1 2 1 7 1 7 1
+ 1 4 2 1 6 1 1 1 1 1 6 5 1 6 1 1 3 6 1 1 8 2 0 1 7 1 1 1 8 1 1 1 4 4 6 6 4
+ 4 6 7 4 6 4 4 4 4 1 4 4 7 0 5 1 1 1 3 2 0 1 3 3 1 1 1 3 1 1 4 0 1 1 1 7 3
+ 1 1 1 1 1 1 1 1 4 3 4 6 4 8 3 1 7 4 4 4 6 4 8 3 8 7 4 1 0 1 4 4 5 1 1 6 1
+ 1 4 1 0 1 1 1 1 3 1 1 1 4 4 4 4 1 4 4 4 1 1 7 1 0 2 0 3 7 1 7 1 8 7 1 8 1
+ 1 1 1 3 1 1 8 1 3 1 1 4 3 1 1 7 0 1 1 4 1 4 1 3 0 7 1 3 1 4 0 4 1 0 1 1 1
+ 3 4 1 1 1 1 4 1 0 1 4 4 4 3 8 6 1 8 1 7 1 8 3 1 1 1 1 1 1 7 1 1 1 1 0 1 1
+ 4 3 1 1 8 4 1 7 1 1 4 4 5 2 5 1 1 5 1 1 3 1 1 1 1 5 1 1 2 2 1 1 3 1 4 0 7
+ 1 4 0 4 7 2 2 3 2 6 8 6 8 0 2 1 3 8 8 4 4 0 4 8 5 1 1 3 1 1 1 1 1 3 1 6 1
+ 0 1 7 0 7 3 8 3 6 6 2 2 3 8 1 4 8 1 8 1 8 1 1 6 4 1 1 7 1 1 2 4 1 3 4 8 0
+ 4 8 8 2 6 0 4 4 4 4 4 7 4 4 4 0 4 7 3 8 4 4 2 6 0 2 4 2 3 8 7 7 4 1 8 4 5
+ 1 0 8 1 0 1 1 8 1 8 6 8 8 4 1 7 8 8 8 3 1 1 3 7 1 1 4 7 4 1 8 1 1 0 4 4 0
+ 4 1 4 1 0 8 6 1 4 3 4 0 4 4 6 8 4 6 7 1 1 7 1 1 7 4 4 1 8 1 1 1 7 6 1 1 1
+ 1 1 1 6 1 8 7 1 1 6 1 1 4 2 4 1 1 6 1 7 1 1 4 4 6 1 8 4 0 4 4 4 4 8 1 1 2
+ 1 0 1 1 1 1 1 1 3 1 1 1 2 1 1 1 2 1 1 1 1 1 1 1 1 0 6 1 6 1 4 1 1 2 7 1 1
+ 1 1 1 1 1 1 1 2 1 1 4 1 1 1 1 1 4 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 2 6 6 6 1 5 1 1 6 8 6 1 8 4 3 3 4 8 8 3 1 7 6 8 3 0 1 1 1 1 1 1 1 3 1
+ 8 1 1 1 1 1 1 6 1 1 1 2 1 5 5 1 2 1 6 1 2 1 1 2 1 8 2 1 6 1 8 2 1 1 3 6 1
+ 1]
+I0828 22:01:34.011583 140485942187840 parallel_py_environment.py:165] Closing all processes.
+I0828 22:01:34.072063 140485942187840 parallel_py_environment.py:168] All processes closed.
+I0828 22:01:34.072473 140481493182208 sc2_env.py:752] Environment Close
+RequestQuit command received.
+Closing Application...
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:47260 disconnected
+I0828 22:01:34.173871 140481493182208 sc_process.py:232] Shutdown gracefully.
+I0828 22:01:34.174123 140481493182208 sc_process.py:210] Shutdown with return code: -15

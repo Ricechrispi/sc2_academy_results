@@ -1,0 +1,431 @@
+USED CHECKPOINT: ckpt-4158
+
+2020-08-20 15:20:49.969429: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcudart.so.10.1'; dlerror: libcudart.so.10.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-20 15:20:49.969483: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+I0820 15:20:51.473497 139989180733248 parallel_py_environment.py:102] Spawning all processes.
+2020-08-20 15:20:51.490201: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-20 15:20:51.490265: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-20 15:20:51.490294: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-20 15:20:51.490858: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+I0820 15:20:51.497550 139989180733248 parallel_py_environment.py:106] Waiting for all processes to start.
+2020-08-20 15:20:51.501204: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-20 15:20:51.501271: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-20 15:20:51.501308: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-20 15:20:51.501966: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-20 15:20:51.510022: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-20 15:20:51.510075: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-20 15:20:51.510103: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-20 15:20:51.510483: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-20 15:20:51.510529: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-20 15:20:51.510554: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-20 15:20:51.510587: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-20 15:20:51.511026: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-20 15:20:51.517984: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194015000 Hz
+2020-08-20 15:20:51.518663: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x54130e0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-20 15:20:51.518703: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-08-20 15:20:51.519102: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194015000 Hz
+2020-08-20 15:20:51.519618: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194015000 Hz
+2020-08-20 15:20:51.519929: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x54130e0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-20 15:20:51.519970: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-08-20 15:20:51.520105: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x54130e0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-20 15:20:51.520123: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-08-20 15:20:51.520481: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194015000 Hz
+2020-08-20 15:20:51.521003: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x54130e0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-20 15:20:51.521035: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+I0820 15:20:51.553331 139989180733248 parallel_py_environment.py:109] All processes started.
+2020-08-20 15:20:51.568143: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: :/home/ricechrispi/.mujoco/mujoco200/bin
+2020-08-20 15:20:51.568182: W tensorflow/stream_executor/cuda/cuda_driver.cc:312] failed call to cuInit: UNKNOWN ERROR (303)
+2020-08-20 15:20:51.568202: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ricechrispc02): /proc/driver/nvidia/version does not exist
+2020-08-20 15:20:51.568524: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2020-08-20 15:20:51.576456: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 3194015000 Hz
+2020-08-20 15:20:51.576944: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x54130e0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-20 15:20:51.576993: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+I0820 15:20:51.584453 139989180733248 sc_process.py:135] Launching SC2: /home/ricechrispi/StarCraftII/Versions/Base75689/SC2_x64 -listen 127.0.0.1 -port 19107 -dataDir /home/ricechrispi/StarCraftII/ -tempDir /tmp/sc-lydak6n1/
+I0820 15:20:51.595711 139989180733248 remote_controller.py:166] Connecting to: ws://127.0.0.1:19107/sc2api, attempt: 0, running: True
+Version: B75689 (SC2.4.10)
+Build: Aug 12 2019 17:16:57
+Command Line: '"/home/ricechrispi/StarCraftII/Versions/Base75689/SC2_x64" -listen 127.0.0.1 -port 19107 -dataDir /home/ricechrispi/StarCraftII/ -tempDir /tmp/sc-lydak6n1/'
+Starting up...
+Startup Phase 1 complete
+I0820 15:20:52.598417 139989180733248 remote_controller.py:166] Connecting to: ws://127.0.0.1:19107/sc2api, attempt: 1, running: True
+Startup Phase 2 complete
+Creating stub renderer...
+Listening on: 127.0.0.1:19107
+Startup Phase 3 complete. Ready for commands.
+I0820 15:20:53.600211 139989180733248 remote_controller.py:166] Connecting to: ws://127.0.0.1:19107/sc2api, attempt: 2, running: True
+ConnectHandler: Request from 127.0.0.1:55646 accepted
+ReadyHandler: 127.0.0.1:55646 ready
+Requesting to join a single player game
+Configuring interface options
+Configure: raw interface enabled
+Configure: feature layer interface enabled
+Configure: score interface enabled
+Configure: render interface disabled
+Launching next game.
+Next launch phase started: 2
+Next launch phase started: 3
+Next launch phase started: 4
+Next launch phase started: 5
+Next launch phase started: 6
+Next launch phase started: 7
+Next launch phase started: 8
+Game has started.
+Using default stable ids, none found at: /home/ricechrispi/StarCraftII/stableid.json
+Successfully loaded stable ids: GameData\stableid.json
+Sending ResponseJoinGame
+I0820 15:20:57.884569 139989180733248 sc2_env.py:314] Environment is ready
+I0820 15:20:57.904460 139989180733248 sc2_env.py:506] Starting episode 1: [terran] on MoveToBeacon
+W0820 15:20:58.178026 139989180733248 my_ppo_agent.py:307] Only tf.keras.optimizers.Optimiers are well supported, got a non-TF2 optimizer: <tensorflow.python.training.adam.AdamOptimizer object at 0x7f51bbc80c40>
+I0820 15:20:58.193693 139989180733248 common.py:977] Checkpoint available: ./results/MoveToBeacon/checkpoints/collect_policy/ckpt-4158
+I0820 15:20:58.510091 139989180733248 common.py:977] Checkpoint available: ./results/MoveToBeacon/checkpoints/policy/ckpt-4158
+2020-08-20 15:20:58.740554: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:118] None of the MLIR optimization passes are enabled (registered 1)
+Game has started.
+I0820 15:20:58.809807 139989180733248 sc2_env.py:506] Starting episode 2: [terran] on MoveToBeacon
+I0820 15:21:03.413911 139985055377152 sc2_env.py:722] Episode 2 finished after 1920 game steps. Outcome: [1], reward: [0], score: [30]
+Game has started.
+I0820 15:21:03.430263 139985021806336 sc2_env.py:506] Starting episode 3: [terran] on MoveToBeacon
+I0820 15:21:06.152428 139985063769856 sc2_env.py:722] Episode 3 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:21:06.168889 139985046984448 sc2_env.py:506] Starting episode 4: [terran] on MoveToBeacon
+I0820 15:21:08.877286 139985709680384 sc2_env.py:722] Episode 4 finished after 1920 game steps. Outcome: [1], reward: [0], score: [28]
+Game has started.
+I0820 15:21:08.898284 139985055377152 sc2_env.py:506] Starting episode 5: [terran] on MoveToBeacon
+I0820 15:21:11.623755 139985021806336 sc2_env.py:722] Episode 5 finished after 1920 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0820 15:21:11.642301 139985692894976 sc2_env.py:506] Starting episode 6: [terran] on MoveToBeacon
+I0820 15:21:14.307557 139985021806336 sc2_env.py:722] Episode 6 finished after 1920 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0820 15:21:14.326383 139985038591744 sc2_env.py:506] Starting episode 7: [terran] on MoveToBeacon
+I0820 15:21:17.024106 139985701287680 sc2_env.py:722] Episode 7 finished after 1920 game steps. Outcome: [1], reward: [1], score: [28]
+Game has started.
+I0820 15:21:17.041040 139985046984448 sc2_env.py:506] Starting episode 8: [terran] on MoveToBeacon
+I0820 15:21:19.680132 139985684502272 sc2_env.py:722] Episode 8 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:21:19.697050 139985046984448 sc2_env.py:506] Starting episode 9: [terran] on MoveToBeacon
+I0820 15:21:22.377508 139985030199040 sc2_env.py:722] Episode 9 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:21:22.399793 139984459790080 sc2_env.py:506] Starting episode 10: [terran] on MoveToBeacon
+I0820 15:21:25.129867 139985046984448 sc2_env.py:722] Episode 10 finished after 1920 game steps. Outcome: [1], reward: [0], score: [26]
+Game has started.
+I0820 15:21:25.151406 139984459790080 sc2_env.py:506] Starting episode 11: [terran] on MoveToBeacon
+I0820 15:21:27.918312 139985038591744 sc2_env.py:722] Episode 11 finished after 1920 game steps. Outcome: [1], reward: [0], score: [28]
+Game has started.
+I0820 15:21:27.935118 139985013413632 sc2_env.py:506] Starting episode 12: [terran] on MoveToBeacon
+I0820 15:21:30.661862 139984459790080 sc2_env.py:722] Episode 12 finished after 1920 game steps. Outcome: [1], reward: [0], score: [27]
+Game has started.
+I0820 15:21:30.681555 139985055377152 sc2_env.py:506] Starting episode 13: [terran] on MoveToBeacon
+I0820 15:21:33.419251 139985692894976 sc2_env.py:722] Episode 13 finished after 1920 game steps. Outcome: [1], reward: [0], score: [26]
+Game has started.
+I0820 15:21:33.437861 139985013413632 sc2_env.py:506] Starting episode 14: [terran] on MoveToBeacon
+I0820 15:21:36.177760 139985021806336 sc2_env.py:722] Episode 14 finished after 1920 game steps. Outcome: [1], reward: [0], score: [28]
+Game has started.
+I0820 15:21:36.197393 139985046984448 sc2_env.py:506] Starting episode 15: [terran] on MoveToBeacon
+I0820 15:21:38.913887 139985046984448 sc2_env.py:722] Episode 15 finished after 1920 game steps. Outcome: [1], reward: [0], score: [26]
+Game has started.
+I0820 15:21:38.932953 139985055377152 sc2_env.py:506] Starting episode 16: [terran] on MoveToBeacon
+I0820 15:21:41.641284 139984459790080 sc2_env.py:722] Episode 16 finished after 1920 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0820 15:21:41.662636 139985055377152 sc2_env.py:506] Starting episode 17: [terran] on MoveToBeacon
+I0820 15:21:44.403788 139985038591744 sc2_env.py:722] Episode 17 finished after 1920 game steps. Outcome: [1], reward: [0], score: [26]
+Game has started.
+I0820 15:21:44.425432 139985055377152 sc2_env.py:506] Starting episode 18: [terran] on MoveToBeacon
+I0820 15:21:47.122963 139985709680384 sc2_env.py:722] Episode 18 finished after 1920 game steps. Outcome: [1], reward: [0], score: [23]
+Game has started.
+I0820 15:21:47.147473 139985030199040 sc2_env.py:506] Starting episode 19: [terran] on MoveToBeacon
+I0820 15:21:49.820700 139985684502272 sc2_env.py:722] Episode 19 finished after 1920 game steps. Outcome: [1], reward: [0], score: [23]
+Game has started.
+I0820 15:21:49.838420 139985709680384 sc2_env.py:506] Starting episode 20: [terran] on MoveToBeacon
+I0820 15:21:52.509145 139984459790080 sc2_env.py:722] Episode 20 finished after 1920 game steps. Outcome: [1], reward: [0], score: [26]
+Game has started.
+I0820 15:21:52.531403 139985038591744 sc2_env.py:506] Starting episode 21: [terran] on MoveToBeacon
+I0820 15:21:55.251889 139985063769856 sc2_env.py:722] Episode 21 finished after 1920 game steps. Outcome: [1], reward: [0], score: [26]
+Game has started.
+I0820 15:21:55.273583 139985684502272 sc2_env.py:506] Starting episode 22: [terran] on MoveToBeacon
+I0820 15:21:57.976281 139985030199040 sc2_env.py:722] Episode 22 finished after 1920 game steps. Outcome: [1], reward: [1], score: [30]
+Game has started.
+I0820 15:21:57.996787 139985038591744 sc2_env.py:506] Starting episode 23: [terran] on MoveToBeacon
+I0820 15:22:00.682695 139985709680384 sc2_env.py:722] Episode 23 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:22:00.703199 139984459790080 sc2_env.py:506] Starting episode 24: [terran] on MoveToBeacon
+I0820 15:22:03.410205 139985046984448 sc2_env.py:722] Episode 24 finished after 1920 game steps. Outcome: [1], reward: [0], score: [26]
+Game has started.
+I0820 15:22:03.427357 139985013413632 sc2_env.py:506] Starting episode 25: [terran] on MoveToBeacon
+I0820 15:22:06.058246 139985055377152 sc2_env.py:722] Episode 25 finished after 1920 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0820 15:22:06.079909 139985684502272 sc2_env.py:506] Starting episode 26: [terran] on MoveToBeacon
+I0820 15:22:08.787260 139985038591744 sc2_env.py:722] Episode 26 finished after 1920 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0820 15:22:08.806197 139985692894976 sc2_env.py:506] Starting episode 27: [terran] on MoveToBeacon
+I0820 15:22:11.497800 139985055377152 sc2_env.py:722] Episode 27 finished after 1920 game steps. Outcome: [1], reward: [1], score: [25]
+Game has started.
+I0820 15:22:11.519176 139985709680384 sc2_env.py:506] Starting episode 28: [terran] on MoveToBeacon
+I0820 15:22:14.215331 139985701287680 sc2_env.py:722] Episode 28 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:22:14.236317 139985030199040 sc2_env.py:506] Starting episode 29: [terran] on MoveToBeacon
+I0820 15:22:16.907386 139985038591744 sc2_env.py:722] Episode 29 finished after 1920 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0820 15:22:16.926334 139985701287680 sc2_env.py:506] Starting episode 30: [terran] on MoveToBeacon
+I0820 15:22:19.614329 139985046984448 sc2_env.py:722] Episode 30 finished after 1920 game steps. Outcome: [1], reward: [0], score: [27]
+Game has started.
+I0820 15:22:19.630290 139985063769856 sc2_env.py:506] Starting episode 31: [terran] on MoveToBeacon
+I0820 15:22:22.325625 139985038591744 sc2_env.py:722] Episode 31 finished after 1920 game steps. Outcome: [1], reward: [0], score: [27]
+Game has started.
+I0820 15:22:22.346542 139985030199040 sc2_env.py:506] Starting episode 32: [terran] on MoveToBeacon
+I0820 15:22:25.049237 139984459790080 sc2_env.py:722] Episode 32 finished after 1920 game steps. Outcome: [1], reward: [0], score: [30]
+Game has started.
+I0820 15:22:25.071233 139985030199040 sc2_env.py:506] Starting episode 33: [terran] on MoveToBeacon
+I0820 15:22:27.775787 139985709680384 sc2_env.py:722] Episode 33 finished after 1920 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0820 15:22:27.792138 139985013413632 sc2_env.py:506] Starting episode 34: [terran] on MoveToBeacon
+I0820 15:22:30.441780 139985013413632 sc2_env.py:722] Episode 34 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:22:30.459149 139985030199040 sc2_env.py:506] Starting episode 35: [terran] on MoveToBeacon
+I0820 15:22:33.203664 139984459790080 sc2_env.py:722] Episode 35 finished after 1920 game steps. Outcome: [1], reward: [1], score: [26]
+Game has started.
+I0820 15:22:33.222504 139985701287680 sc2_env.py:506] Starting episode 36: [terran] on MoveToBeacon
+I0820 15:22:35.909429 139985030199040 sc2_env.py:722] Episode 36 finished after 1920 game steps. Outcome: [1], reward: [0], score: [26]
+Game has started.
+I0820 15:22:35.926554 139984459790080 sc2_env.py:506] Starting episode 37: [terran] on MoveToBeacon
+I0820 15:22:38.618755 139985030199040 sc2_env.py:722] Episode 37 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:22:38.639457 139985046984448 sc2_env.py:506] Starting episode 38: [terran] on MoveToBeacon
+I0820 15:22:41.327574 139985046984448 sc2_env.py:722] Episode 38 finished after 1920 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0820 15:22:41.343846 139984459790080 sc2_env.py:506] Starting episode 39: [terran] on MoveToBeacon
+I0820 15:22:44.065892 139985013413632 sc2_env.py:722] Episode 39 finished after 1920 game steps. Outcome: [1], reward: [0], score: [22]
+Game has started.
+I0820 15:22:44.087694 139985038591744 sc2_env.py:506] Starting episode 40: [terran] on MoveToBeacon
+I0820 15:22:46.806920 139985021806336 sc2_env.py:722] Episode 40 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:22:46.825290 139985701287680 sc2_env.py:506] Starting episode 41: [terran] on MoveToBeacon
+I0820 15:22:49.505662 139985013413632 sc2_env.py:722] Episode 41 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:22:49.526913 139984459790080 sc2_env.py:506] Starting episode 42: [terran] on MoveToBeacon
+I0820 15:22:52.285624 139985013413632 sc2_env.py:722] Episode 42 finished after 1920 game steps. Outcome: [1], reward: [0], score: [27]
+Game has started.
+I0820 15:22:52.308397 139985021806336 sc2_env.py:506] Starting episode 43: [terran] on MoveToBeacon
+I0820 15:22:55.029692 139985030199040 sc2_env.py:722] Episode 43 finished after 1920 game steps. Outcome: [1], reward: [0], score: [27]
+Game has started.
+I0820 15:22:55.051199 139985021806336 sc2_env.py:506] Starting episode 44: [terran] on MoveToBeacon
+I0820 15:22:57.745419 139985709680384 sc2_env.py:722] Episode 44 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:22:57.762151 139985038591744 sc2_env.py:506] Starting episode 45: [terran] on MoveToBeacon
+I0820 15:23:00.463500 139985055377152 sc2_env.py:722] Episode 45 finished after 1920 game steps. Outcome: [1], reward: [0], score: [26]
+Game has started.
+I0820 15:23:00.484001 139985701287680 sc2_env.py:506] Starting episode 46: [terran] on MoveToBeacon
+I0820 15:23:03.179512 139985684502272 sc2_env.py:722] Episode 46 finished after 1920 game steps. Outcome: [1], reward: [0], score: [22]
+Game has started.
+I0820 15:23:03.199892 139985030199040 sc2_env.py:506] Starting episode 47: [terran] on MoveToBeacon
+I0820 15:23:05.940903 139985063769856 sc2_env.py:722] Episode 47 finished after 1920 game steps. Outcome: [1], reward: [0], score: [27]
+Game has started.
+I0820 15:23:05.961254 139985013413632 sc2_env.py:506] Starting episode 48: [terran] on MoveToBeacon
+I0820 15:23:08.628828 139985692894976 sc2_env.py:722] Episode 48 finished after 1920 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0820 15:23:08.650285 139985684502272 sc2_env.py:506] Starting episode 49: [terran] on MoveToBeacon
+I0820 15:23:11.394405 139985046984448 sc2_env.py:722] Episode 49 finished after 1920 game steps. Outcome: [1], reward: [1], score: [25]
+Game has started.
+I0820 15:23:11.410479 139985013413632 sc2_env.py:506] Starting episode 50: [terran] on MoveToBeacon
+I0820 15:23:14.153770 139985021806336 sc2_env.py:722] Episode 50 finished after 1920 game steps. Outcome: [1], reward: [0], score: [27]
+Game has started.
+I0820 15:23:14.172199 139985684502272 sc2_env.py:506] Starting episode 51: [terran] on MoveToBeacon
+I0820 15:23:16.888710 139985055377152 sc2_env.py:722] Episode 51 finished after 1920 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0820 15:23:16.908903 139985692894976 sc2_env.py:506] Starting episode 52: [terran] on MoveToBeacon
+I0820 15:23:19.650015 139985684502272 sc2_env.py:722] Episode 52 finished after 1920 game steps. Outcome: [1], reward: [1], score: [24]
+Game has started.
+I0820 15:23:19.670965 139984459790080 sc2_env.py:506] Starting episode 53: [terran] on MoveToBeacon
+I0820 15:23:22.364411 139985701287680 sc2_env.py:722] Episode 53 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:23:22.381731 139985038591744 sc2_env.py:506] Starting episode 54: [terran] on MoveToBeacon
+I0820 15:23:25.075664 139985692894976 sc2_env.py:722] Episode 54 finished after 1920 game steps. Outcome: [1], reward: [0], score: [27]
+Game has started.
+I0820 15:23:25.096813 139984459790080 sc2_env.py:506] Starting episode 55: [terran] on MoveToBeacon
+I0820 15:23:27.795376 139985013413632 sc2_env.py:722] Episode 55 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:23:27.813751 139985038591744 sc2_env.py:506] Starting episode 56: [terran] on MoveToBeacon
+I0820 15:23:30.513750 139985692894976 sc2_env.py:722] Episode 56 finished after 1920 game steps. Outcome: [1], reward: [1], score: [29]
+Game has started.
+I0820 15:23:30.531295 139984459790080 sc2_env.py:506] Starting episode 57: [terran] on MoveToBeacon
+I0820 15:23:33.283272 139985038591744 sc2_env.py:722] Episode 57 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:23:33.301348 139985684502272 sc2_env.py:506] Starting episode 58: [terran] on MoveToBeacon
+I0820 15:23:36.010903 139985055377152 sc2_env.py:722] Episode 58 finished after 1920 game steps. Outcome: [1], reward: [0], score: [28]
+Game has started.
+I0820 15:23:36.028191 139985684502272 sc2_env.py:506] Starting episode 59: [terran] on MoveToBeacon
+I0820 15:23:38.775565 139985013413632 sc2_env.py:722] Episode 59 finished after 1920 game steps. Outcome: [1], reward: [0], score: [22]
+Game has started.
+I0820 15:23:38.795632 139985684502272 sc2_env.py:506] Starting episode 60: [terran] on MoveToBeacon
+I0820 15:23:41.527951 139985692894976 sc2_env.py:722] Episode 60 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:23:41.549618 139985701287680 sc2_env.py:506] Starting episode 61: [terran] on MoveToBeacon
+I0820 15:23:44.274584 139985046984448 sc2_env.py:722] Episode 61 finished after 1920 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0820 15:23:44.294743 139984459790080 sc2_env.py:506] Starting episode 62: [terran] on MoveToBeacon
+I0820 15:23:47.020941 139985684502272 sc2_env.py:722] Episode 62 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:23:47.041220 139984459790080 sc2_env.py:506] Starting episode 63: [terran] on MoveToBeacon
+I0820 15:23:49.798368 139985684502272 sc2_env.py:722] Episode 63 finished after 1920 game steps. Outcome: [1], reward: [0], score: [27]
+Game has started.
+I0820 15:23:49.817776 139985021806336 sc2_env.py:506] Starting episode 64: [terran] on MoveToBeacon
+I0820 15:23:52.531226 139985038591744 sc2_env.py:722] Episode 64 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:23:52.547325 139985692894976 sc2_env.py:506] Starting episode 65: [terran] on MoveToBeacon
+I0820 15:23:55.298541 139985684502272 sc2_env.py:722] Episode 65 finished after 1920 game steps. Outcome: [1], reward: [0], score: [26]
+Game has started.
+I0820 15:23:55.319198 139985063769856 sc2_env.py:506] Starting episode 66: [terran] on MoveToBeacon
+I0820 15:23:58.079385 139985684502272 sc2_env.py:722] Episode 66 finished after 1920 game steps. Outcome: [1], reward: [0], score: [23]
+Game has started.
+I0820 15:23:58.095514 139985046984448 sc2_env.py:506] Starting episode 67: [terran] on MoveToBeacon
+I0820 15:24:00.831898 139985046984448 sc2_env.py:722] Episode 67 finished after 1920 game steps. Outcome: [1], reward: [0], score: [27]
+Game has started.
+I0820 15:24:00.854349 139985055377152 sc2_env.py:506] Starting episode 68: [terran] on MoveToBeacon
+I0820 15:24:03.579789 139985055377152 sc2_env.py:722] Episode 68 finished after 1920 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0820 15:24:03.595965 139985692894976 sc2_env.py:506] Starting episode 69: [terran] on MoveToBeacon
+I0820 15:24:06.319539 139985063769856 sc2_env.py:722] Episode 69 finished after 1920 game steps. Outcome: [1], reward: [0], score: [28]
+Game has started.
+I0820 15:24:06.339693 139985709680384 sc2_env.py:506] Starting episode 70: [terran] on MoveToBeacon
+I0820 15:24:09.061802 139984459790080 sc2_env.py:722] Episode 70 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:24:09.081734 139984459790080 sc2_env.py:506] Starting episode 71: [terran] on MoveToBeacon
+I0820 15:24:11.831556 139985692894976 sc2_env.py:722] Episode 71 finished after 1920 game steps. Outcome: [1], reward: [0], score: [23]
+Game has started.
+I0820 15:24:11.849053 139985030199040 sc2_env.py:506] Starting episode 72: [terran] on MoveToBeacon
+I0820 15:24:14.517728 139985013413632 sc2_env.py:722] Episode 72 finished after 1920 game steps. Outcome: [1], reward: [0], score: [26]
+Game has started.
+I0820 15:24:14.537529 139985021806336 sc2_env.py:506] Starting episode 73: [terran] on MoveToBeacon
+I0820 15:24:17.230647 139984459790080 sc2_env.py:722] Episode 73 finished after 1920 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0820 15:24:17.248497 139985046984448 sc2_env.py:506] Starting episode 74: [terran] on MoveToBeacon
+I0820 15:24:19.990667 139985684502272 sc2_env.py:722] Episode 74 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:24:20.007123 139984459790080 sc2_env.py:506] Starting episode 75: [terran] on MoveToBeacon
+I0820 15:24:22.738166 139985021806336 sc2_env.py:722] Episode 75 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:24:22.760069 139985692894976 sc2_env.py:506] Starting episode 76: [terran] on MoveToBeacon
+I0820 15:24:25.489392 139985038591744 sc2_env.py:722] Episode 76 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:24:25.511208 139985709680384 sc2_env.py:506] Starting episode 77: [terran] on MoveToBeacon
+I0820 15:24:28.253956 139985013413632 sc2_env.py:722] Episode 77 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:24:28.273661 139985038591744 sc2_env.py:506] Starting episode 78: [terran] on MoveToBeacon
+I0820 15:24:31.013402 139985692894976 sc2_env.py:722] Episode 78 finished after 1920 game steps. Outcome: [1], reward: [0], score: [22]
+Game has started.
+I0820 15:24:31.033371 139985055377152 sc2_env.py:506] Starting episode 79: [terran] on MoveToBeacon
+I0820 15:24:33.780886 139985038591744 sc2_env.py:722] Episode 79 finished after 1920 game steps. Outcome: [1], reward: [0], score: [26]
+Game has started.
+I0820 15:24:33.796990 139985013413632 sc2_env.py:506] Starting episode 80: [terran] on MoveToBeacon
+I0820 15:24:36.541294 139985692894976 sc2_env.py:722] Episode 80 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:24:36.563251 139984459790080 sc2_env.py:506] Starting episode 81: [terran] on MoveToBeacon
+I0820 15:24:39.314912 139985709680384 sc2_env.py:722] Episode 81 finished after 1920 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0820 15:24:39.335254 139985021806336 sc2_env.py:506] Starting episode 82: [terran] on MoveToBeacon
+I0820 15:24:41.996574 139985684502272 sc2_env.py:722] Episode 82 finished after 1920 game steps. Outcome: [1], reward: [0], score: [27]
+Game has started.
+I0820 15:24:42.016859 139985709680384 sc2_env.py:506] Starting episode 83: [terran] on MoveToBeacon
+I0820 15:24:44.641825 139985046984448 sc2_env.py:722] Episode 83 finished after 1920 game steps. Outcome: [1], reward: [0], score: [29]
+Game has started.
+I0820 15:24:44.661820 139985030199040 sc2_env.py:506] Starting episode 84: [terran] on MoveToBeacon
+I0820 15:24:47.337684 139985063769856 sc2_env.py:722] Episode 84 finished after 1920 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0820 15:24:47.359626 139985046984448 sc2_env.py:506] Starting episode 85: [terran] on MoveToBeacon
+I0820 15:24:50.050658 139985038591744 sc2_env.py:722] Episode 85 finished after 1920 game steps. Outcome: [1], reward: [0], score: [26]
+Game has started.
+I0820 15:24:50.068741 139985063769856 sc2_env.py:506] Starting episode 86: [terran] on MoveToBeacon
+I0820 15:24:52.743904 139985701287680 sc2_env.py:722] Episode 86 finished after 1920 game steps. Outcome: [1], reward: [0], score: [28]
+Game has started.
+I0820 15:24:52.759702 139985692894976 sc2_env.py:506] Starting episode 87: [terran] on MoveToBeacon
+I0820 15:24:55.444987 139985684502272 sc2_env.py:722] Episode 87 finished after 1920 game steps. Outcome: [1], reward: [0], score: [26]
+Game has started.
+I0820 15:24:55.465165 139985046984448 sc2_env.py:506] Starting episode 88: [terran] on MoveToBeacon
+I0820 15:24:58.157738 139985030199040 sc2_env.py:722] Episode 88 finished after 1920 game steps. Outcome: [1], reward: [1], score: [25]
+Game has started.
+I0820 15:24:58.179775 139985038591744 sc2_env.py:506] Starting episode 89: [terran] on MoveToBeacon
+I0820 15:25:00.876041 139985021806336 sc2_env.py:722] Episode 89 finished after 1920 game steps. Outcome: [1], reward: [0], score: [27]
+Game has started.
+I0820 15:25:00.893270 139984459790080 sc2_env.py:506] Starting episode 90: [terran] on MoveToBeacon
+I0820 15:25:03.605849 139985030199040 sc2_env.py:722] Episode 90 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:25:03.627256 139985055377152 sc2_env.py:506] Starting episode 91: [terran] on MoveToBeacon
+I0820 15:25:06.332967 139985063769856 sc2_env.py:722] Episode 91 finished after 1920 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0820 15:25:06.355014 139985055377152 sc2_env.py:506] Starting episode 92: [terran] on MoveToBeacon
+I0820 15:25:08.958121 139985701287680 sc2_env.py:722] Episode 92 finished after 1920 game steps. Outcome: [1], reward: [0], score: [27]
+Game has started.
+I0820 15:25:08.981367 139985692894976 sc2_env.py:506] Starting episode 93: [terran] on MoveToBeacon
+I0820 15:25:11.634701 139985030199040 sc2_env.py:722] Episode 93 finished after 1920 game steps. Outcome: [1], reward: [0], score: [26]
+Game has started.
+I0820 15:25:11.651106 139985692894976 sc2_env.py:506] Starting episode 94: [terran] on MoveToBeacon
+I0820 15:25:14.352908 139985709680384 sc2_env.py:722] Episode 94 finished after 1920 game steps. Outcome: [1], reward: [0], score: [26]
+Game has started.
+I0820 15:25:14.370313 139985684502272 sc2_env.py:506] Starting episode 95: [terran] on MoveToBeacon
+I0820 15:25:17.045417 139985709680384 sc2_env.py:722] Episode 95 finished after 1920 game steps. Outcome: [1], reward: [0], score: [24]
+Game has started.
+I0820 15:25:17.065151 139985046984448 sc2_env.py:506] Starting episode 96: [terran] on MoveToBeacon
+I0820 15:25:19.774718 139985038591744 sc2_env.py:722] Episode 96 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:25:19.794580 139985063769856 sc2_env.py:506] Starting episode 97: [terran] on MoveToBeacon
+I0820 15:25:22.443493 139985709680384 sc2_env.py:722] Episode 97 finished after 1920 game steps. Outcome: [1], reward: [0], score: [29]
+Game has started.
+I0820 15:25:22.461600 139985038591744 sc2_env.py:506] Starting episode 98: [terran] on MoveToBeacon
+I0820 15:25:25.137960 139985692894976 sc2_env.py:722] Episode 98 finished after 1920 game steps. Outcome: [1], reward: [0], score: [23]
+Game has started.
+I0820 15:25:25.161082 139985055377152 sc2_env.py:506] Starting episode 99: [terran] on MoveToBeacon
+I0820 15:25:27.877133 139985030199040 sc2_env.py:722] Episode 99 finished after 1920 game steps. Outcome: [1], reward: [0], score: [22]
+Game has started.
+I0820 15:25:27.900415 139985055377152 sc2_env.py:506] Starting episode 100: [terran] on MoveToBeacon
+I0820 15:25:30.607836 139985030199040 sc2_env.py:722] Episode 100 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:25:30.627504 139985046984448 sc2_env.py:506] Starting episode 101: [terran] on MoveToBeacon
+I0820 15:25:33.303816 139985030199040 sc2_env.py:722] Episode 101 finished after 1920 game steps. Outcome: [1], reward: [0], score: [25]
+Game has started.
+I0820 15:25:33.325459 139985709680384 sc2_env.py:506] Starting episode 102: [terran] on MoveToBeacon
+I0820 15:25:33.682678 139989180733248 ppo_eval.py:84] 
+AverageReturn: 25.48
+AverageEpisodeLength: 240.0
+MaxReturn: 30.0
+MinReturn: 22.0
+ReturnStd: 1.7747114
+ChosenActionIDHistogram: [2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 1 1 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0
+ 2]
+I0820 15:25:33.682844 139989180733248 parallel_py_environment.py:165] Closing all processes.
+I0820 15:25:33.728111 139989180733248 parallel_py_environment.py:168] All processes closed.
+I0820 15:25:33.728553 139984451397376 sc2_env.py:752] Environment Close
+RequestQuit command received.
+Closing Application...
+DataHandler: unable to parse websocket frame.
+CloseHandler: 127.0.0.1:55646 disconnected
+I0820 15:25:33.829609 139984451397376 sc_process.py:232] Shutdown gracefully.
+I0820 15:25:33.829859 139984451397376 sc_process.py:210] Shutdown with return code: -15
